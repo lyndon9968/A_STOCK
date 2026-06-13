@@ -1,8 +1,18 @@
-yfinance==0.2.37
-google-genai==0.3.0
+# 核心深度学习框架
 torch
-pandas
-requests
+
+# 如果用到 HuggingFace 的模型库(Amazon Chronos等通用时序模型通常基于此)
 transformers
-kronos
+huggingface_hub
+
+# 数据处理与计算
+pandas
+numpy
+scikit-learn
+
+# 股票数据获取库 (如果是获取A股数据，大概率是使用了 akshare 或 tushare)
 akshare
+yfinance
+
+# 网络请求
+requests
