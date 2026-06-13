@@ -58,8 +58,8 @@ def get_hardcoded_pool():
     ]
 
 # --- 3. 初始化预测引擎 ---
-os.environ["HTTP_PROXY"] = "http://127.0.0.1:21080"
-os.environ["HTTPS_PROXY"] = "http://127.0.0.1:21080"
+#os.environ["HTTP_PROXY"] = "http://127.0.0.1:21080"
+#os.environ["HTTPS_PROXY"] = "http://127.0.0.1:21080"
 print("正在初始化 Kronos 预测引擎...")
 tokenizer = KronosTokenizer.from_pretrained("NeoQuasar/Kronos-Tokenizer-base")
 model = Kronos.from_pretrained("NeoQuasar/Kronos-mini")
