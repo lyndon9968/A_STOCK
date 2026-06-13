@@ -1,0 +1,45 @@
+name: Kronos Daily Scan
+
+on:
+  schedule:
+    # 每天世界协调时间 07:30 执行 (对应北京时间 15:30 收盘后) 周一到周五
+    - cron: '30 7 * * 1-5'
+  workflow_dispatch: # 这个配置非常重要！它允许你手动在网页上点击运行！
+
+jobs:
+  run-kronos:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write # 允许 Action 将结果写回仓库
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Run Python Engine
+      env:
+        # 这里会读取你在仓库 Secrets 填写的 Gemini API 密钥
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python kronos_scan.py
+
+    - name: Commit and Push results
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add latest_scan.json
+        # 如果文件没有变化，强制提交也不会报错
+        git commit -m "Auto-update Kronos prediction stats" || echo "No changes to commit"
+        git push
