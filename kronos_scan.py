@@ -18,7 +18,7 @@ def setup_kronos_path():
 
 if not setup_kronos_path():
     print("❌ 找不到 Kronos 目录，请确认文件夹位置！")
-    input("按回车退出..."); sys.exit()
+    #input("按回车退出..."); sys.exit()
 
 from model import Kronos, KronosTokenizer, KronosPredictor
 
@@ -133,4 +133,4 @@ if results:
 else:
     print("扫描结束，无有效数据。")
 
-input(f"\n全部扫描任务已完成！结果已实时保存在 {save_path}。按回车退出...")
+#input(f"\n全部扫描任务已完成！结果已实时保存在 {save_path}。按回车退出...")
