@@ -37,6 +37,7 @@ jobs:
         python -m pip install --upgrade pip
         # 安装 Kronos 的官方依赖
         pip install -r Kronos/requirements.txt
+        pip install -r requirements.txt
         # 安装我们扫描脚本需要的额外库
         pip install "torch>=2.0.0" efinance pandas numpy tqdm python-dateutil
         
