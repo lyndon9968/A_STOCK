@@ -1,69 +1,59 @@
-
 name: Kronos Daily Scan
 
 on:
+  push:
+    branches:
+      - main  # 每次提交到 main 分支时触发（方便你调试测试）
   schedule:
-    # 每天世界协调时间 07:30 执行 (对应北京时间 15:30 收盘后) 周一到周五
-    - cron: '30 7 * * 1-5'
-  workflow_dispatch: # 这个配置非常重要！它允许你手动在网页上点击运行！
+    - cron: '0 8 * * 1-5'  # 股市交易日（周一至周五），每天 UTC 8:00 (北京时间下午 16:00 股市收盘后) 自动执行
+  workflow_dispatch:       # 允许你在 GitHub 网页的 Actions 选项卡中手动点击 "Run workflow" 运行
+
+permissions:
+  contents: write          # 允许 Action 将跑好的结果 JSON 传回到当前仓库
 
 jobs:
-  run-kronos:
+  build:
     runs-on: ubuntu-latest
-    
-    permissions:
-      contents: write # 允许 Action 将结果写回仓库
 
     steps:
-    - name: Checkout code
+    # 1. 检出你自己的当前仓库代码 (A_STOCK)
+    - name: Checkout Current Repository
       uses: actions/checkout@v4
 
-    - name: Set up Python
+    # 2. 检出 Kronos 仓库到当前工作目录下的 Kronos 文件夹中（解决 ❌ 找不到 Kronos 目录 问题）
+    - name: Clone Kronos Repository
+      run: git clone https://github.com/shiyu-coder/Kronos.git
+
+    # 3. 设置 Python 运行环境
+    - name: Set up Python 3.10
       uses: actions/setup-python@v5
       with:
         python-version: '3.10'
         cache: 'pip'
 
+    # 4. 安装必要的依赖库（解决 ModuleNotFoundError）
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt
+        # 安装 Kronos 的官方依赖
+        pip install -r Kronos/requirements.txt
+        # 安装我们扫描脚本需要的额外库
+        pip install "torch>=2.0.0" efinance pandas numpy tqdm python-dateutil
+        
+    # 5. 去除代码里的 input 语句，防止自动化运行过程中卡死报错 (EOFError)
+    - name: Remove input() from script to avoid EOFError
+      run: sed -i 's/input("按回车退出.*").*//g' kronos_scan.py || true
 
-    - name: Run Python Engine
-      env:
-        # 这里会读取你在仓库 Secrets 填写的 Gemini API 密钥
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    # 6. 运行咱们的量化预测扫描脚本
+    - name: Run Kronos Scan Script
+      run: python kronos_scan.py
+
+    # 7. 将最新生成的 latest_scan.json 提交并推送回 GitHub 仓库
+    - name: Commit and Push latest_scan.json
       run: |
-      # ----------------------------------------------------
-      # [新增] 1. 将原作者的 Kronos 仓库克隆到当前目录下的 Kronos 文件夹中
-      # ----------------------------------------------------
-      - name: Clone Kronos Repository
-        run: git clone https://github.com/shiyu-coder/Kronos.git Kronos
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10' # 建议使用 3.10 以上版本
-
-      # ----------------------------------------------------
-      # 2. 安装 Kronos 需要的依赖库（包括你之前缺少的 torch 等）
-      # ----------------------------------------------------
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          # 安装 Kronos 的必需依赖
-          pip install torch pandas numpy requests
-          # 如果 Kronos 目录下有 requirements.txt，也可以这样安装：
-          # pip install -r Kronos/requirements.txt
-
-      # ----------------------------------------------------
-        python kronos_scan.py
-
-    - name: Commit and Push results
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add latest_scan.json
-        # 如果文件没有变化，强制提交也不会报错
-        git commit -m "Auto-update Kronos prediction stats" || echo "No changes to commit"
+        # 仅当 latest_scan.json 有更新时才进行 commit（避免内容未变时报错中断）
+        git diff --staged --quiet || git commit -m "Auto-update latest_scan.json stock predictions"
         git push
