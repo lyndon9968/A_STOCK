@@ -1,71 +1,41 @@
-name: Daily Kronos Stock Scan
+name: Run Kronos Scan
 
 on:
+  workflow_dispatch:  # 允许在 Github 网页上手动点击按钮触发运行
   schedule:
-    # 每天早上自动执行一次（当前配置为 UTC 时间 02:00，约北京时间 10:00）
-    - cron: '0 2 * * *'
-  # 允许手动在 Actions 页面点击 "Run workflow" 按钮来触发测试
-  workflow_dispatch: 
-
-# 必须赋予写权限，脚本运行完才能把 json 文件推送到你的代码库上
-permissions:
-  contents: write
+    - cron: '30 9 * * 1-5'  # 选填：定时任务（这里举例周一到周五每天北京时间17:30自动执行。Github使用UTC时间，9:30 UTC = 17:30 北京时间）
 
 jobs:
   run-scan:
     runs-on: ubuntu-latest
-
+    
     steps:
-      # 1. 下载你的主仓库代码（A_STOCK）
-      - name: Checkout Your Repository
-        uses: actions/checkout@v4
+    - name: Checkout current repository
+      uses: actions/checkout@v4
 
-      # 2. 关键：把 shiyu-coder/Kronos 克隆到当前环境下的 Kronos 子目录里
-      - name: Checkout Kronos Source Code
-        uses: actions/checkout@v4
-        with:
-          repository: shiyu-coder/Kronos
-          path: Kronos 
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+        cache: 'pip' # 缓存pip依赖，加快下次运行速度
 
-      # 3. 配置 Python 环境
-      - name: Set up Python 3.10
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-          cache: 'pip'
-
-      # 4. 安装各种必须要用到的运行库
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          
-          # 指定安装 PyTorch (为了加快云端下载速度，用 cpu 版本即可)
-          pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
-          
-          # 安装 Kronos 的官方环境约束(如果它提供)
-          if [ -f "Kronos/requirements.txt" ]; then pip install -r Kronos/requirements.txt; fi
-          
-          # 安装你可能用到的股票和数据接口相关依赖 (请按照你的需求增删)
-          pip install pandas numpy requests
-          # 如果用了 tushare 请取消下方注释
-          # pip install tushare aiohttp
-
-      # 5. 执行你的大模型推断脚本
-      - name: Run kronos_scan.py
-        env:
-          # 如果你的逻辑需要密码或API，可以在仓库的 Settings->Secrets 中添加
-          # TUSHARE_TOKEN: ${{ secrets.TUSHARE_TOKEN }}
-          PYTHONUNBUFFERED: "1"
-        run: |
-          python kronos_scan.py
-
-      # 6. 把预测完毕的 latest_scan.json 数据自动提交回你的仓库
-      - name: Commit and push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add latest_scan.json
-          
-          # 检查是否有内容变更，有的话再提交
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update AI stock scan result [skip ci]"
-          git push
+    - name: Clone Kronos repository
+      run: |
+        # 到作者的仓库中把相关的 Kronos 模型代码拉取下来并把 model 文件夹复制进根目录
+        git clone https://github.com/shiyu-coder/Kronos.git KronosRepo
+        cp -r KronosRepo/model ./model
+        
+    - name: Install Dependencies
+      run: |
+        python -m pip install --upgrade pip
+        
+        # 1. 安装 Kronos 原生要求的各种特定版本依赖
+        pip install numpy "pandas==2.2.2" "torch>=2.0.0" "einops==0.8.1" "huggingface_hub==0.33.1" "matplotlib==3.9.3" "tqdm==4.67.1" "safetensors==0.6.2"
+        
+        # 2. 安装你自己的 Python 脚本附加需要的依赖（比如 akshare）
+        # (如果您还用到了 yfinance 等其他包，记得在这里加上)
+        pip install akshare
+        
+    - name: Run Scan Script
+      run: |
+        python kronos_scan.py
