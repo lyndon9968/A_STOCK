@@ -78,8 +78,8 @@ predictor = KronosPredictor(model, tokenizer, device="cpu", max_context=512)
 def main():
     # --- 5. 扫描配置 ---
     stock_pool = get_hardcoded_pool()
-    num_samples = 3  # 30次采样
-    pred_len = 1  #正常是10 现在1是调试    
+    num_samples = 10  # 30次采样
+    pred_len = 10  #正常是10 现在1是调试    
     save_path = "latest_scan.json"
     
     print(f"🚀 启动 GitHub Actions 云端扫描任务！目标: {len(stock_pool)} 只")
