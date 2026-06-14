@@ -78,7 +78,7 @@ predictor = KronosPredictor(model, tokenizer, device="cpu", max_context=512)
 def main():
     # --- 5. 扫描配置 ---
     stock_pool = get_hardcoded_pool()
-    num_samples = 30  # 30次采样
+    num_samples = 3  # 30次采样
     pred_len = 10     
     save_path = "latest_scan.json"
     
