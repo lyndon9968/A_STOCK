@@ -6,7 +6,7 @@ on:
   workflow_dispatch:      # 允许在 GitHub Actions 界面上手动点击 "Run workflow" 运行
 
 permissions:
-  contents: write         # 关键：赋予 Action 写入并推送文件回仓库的权限
+  contents: write         # 极其关键！声明需要写权限，允许 Action 提交和推送数据文件回仓库
 
 jobs:
   scan:
@@ -16,7 +16,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          persist-credentials: true # 使用默认的 GITHUB_TOKEN 配置凭据，保证可以 push
+          persist-credentials: true # 使用内置的 GITHUB_TOKEN 配置凭据，保证可以 push 权限
 
       - name: Clone Kronos Engine
         run: |
@@ -26,14 +26,15 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-          cache: 'pip' # 自动缓存依赖，提升运行速度
+          cache: 'pip' # 开启 pip 依赖缓存，提升后续运行速度
 
       - name: Install Dependencies
         run: |
           python -m pip install --upgrade pip
-          # 安装 CPU 版本的 PyTorch（更轻量，适合 GitHub Actions 运行）
+          # 安装 CPU 版本的 PyTorch（更轻量，适合 GitHub Actions 运行环境）
           pip install torch --index-url https://download.pytorch.org/whl/cpu
-          pip install akshare pandas numpy huggingface_hub requests urllib3
+          # 必须安装 Kronos 依赖: einops, tqdm, safetensors
+          pip install akshare pandas numpy huggingface_hub requests urllib3 einops tqdm safetensors
 
       - name: Run Kronos Scan
         run: |
@@ -41,19 +42,19 @@ jobs:
 
       - name: Commit and Push results
         run: |
-          # 配置 git 签名
+          # 配置 git 机器人账号签名
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # 暂存生成的 json 数据文件
+          # 将生成的 json 数据文件暂存
           git add latest_scan.json
           git status
           
-          # 仅在数据发生改变时才执行 commit & push，避免空提交报错
+          # 检查是否有内容差异，只有在数据发生变化时才执行 commit，防止无意义的提交导致 Action 报错
           if ! git diff-index --quiet HEAD; then
             git commit -m "chore: auto-update latest stock scan predictions [skip ci]"
             git push origin HEAD
             echo "✅ 预测数据更新并成功推送至 GitHub 仓库！"
           else
-            echo "ℹ️ 数据未发生变化，无需提交。"
+            echo "ℹ️ 数据未发生变化，无需提交更新。"
           fi
