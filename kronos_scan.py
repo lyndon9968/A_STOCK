@@ -1,7 +1,12 @@
 import os
 import sys
 import json
+import time
+from datetime import datetime, timezone
+import numpy as np
+import pandas as pd
 import torch
+
 # 强制移除可能导致 GitHub Actions 下载失败的本地代理变量
 os.environ.pop("HTTP_PROXY", None)
 os.environ.pop("HTTPS_PROXY", None)
@@ -10,7 +15,25 @@ os.environ.pop("https_proxy", None)
 
 import akshare as ak
 
-# --- 1. 硬编码沪深 300 成分股列表 ---
+# --- 1. 自动定位 Kronos 源码路径并添加至 sys.path ---
+# 这样即使在 GitHub Actions 中将 Kronos 克隆到子目录（如 'Kronos' 或 'kronos'），依然能成功加载 model
+for folder in ["Kronos", "kronos", "."]:
+    potential_path = os.path.join(os.getcwd(), folder)
+    if os.path.exists(os.path.join(potential_path, "model", "__init__.py")):
+        if potential_path not in sys.path:
+            sys.path.insert(0, potential_path)
+        break
+
+# --- 2. 导入 Kronos 的 model 模块 ---
+try:
+    from model import Kronos, KronosTokenizer, KronosPredictor
+except ModuleNotFoundError:
+    print("❌ 找不到 Kronos 的 'model' 模块！")
+    print("请确认是否已经通过 git clone https://github.com/shiyu-coder/Kronos 拉取了 Kronos 仓库，")
+    print("且克隆出来的 `model` 文件夹与当前脚本在同一目录下，或者在 `Kronos/` 子目录下。")
+    sys.exit(1)
+
+# --- 3. 硬编码沪深 300 成分股列表 ---
 def get_hardcoded_pool():
     return [
         "600519", "601318", "000858", "600036", "300750", "601012", "600276", "601166", "600900", "000333",
@@ -44,22 +67,16 @@ def get_hardcoded_pool():
         "603833", "603233", "601231", "603198", "601611", "000001", "601668", "300059", "603288", "600690"
     ]
 
-# ---2. 初始化预测引擎 ---
+# --- 4. 初始化预测引擎 ---
 print("正在初始化 Kronos 预测引擎...")
+# 放在此处确保 KronosTokenizer / Kronos / KronosPredictor 已经被加载进来
 tokenizer = KronosTokenizer.from_pretrained("NeoQuasar/Kronos-Tokenizer-base")
 model = Kronos.from_pretrained("NeoQuasar/Kronos-mini")
 # GitHub Actions 通常没有 GPU，使用 cpu 运行模型即可
 predictor = KronosPredictor(model, tokenizer, device="cpu", max_context=512)
 
-try:
-    from model import Kronos, KronosTokenizer, KronosPredictor
-except ModuleNotFoundError:
-    print("❌ 找不到 Kronos 的 'model' 模块！请确保 Kronos 的源码存在于当前目录或环境变量中。")
-    # 不要使用 input()，直接用 sys.exit 退出，适配 CI/CD 自动化环境
-    sys.exit(1)
-
 def main():
-    # --- 4. 扫描配置 ---
+    # --- 5. 扫描配置 ---
     stock_pool = get_hardcoded_pool()
     num_samples = 30  # 30次采样
     pred_len = 10     
@@ -67,7 +84,7 @@ def main():
     
     print(f"🚀 启动 GitHub Actions 云端扫描任务！目标: {len(stock_pool)} 只")
     
-    # --- 5. 循环执行并输出 JSON ---
+    # --- 6. 循环执行并输出 JSON ---
     results = []
     for idx, code in enumerate(stock_pool):
         try:
@@ -77,7 +94,8 @@ def main():
             
             # 抓取日线
             df_raw = ak.stock_zh_a_daily(symbol=symbol)
-            if df_raw.empty or len(df_raw) < 100: continue
+            if df_raw.empty or len(df_raw) < 100: 
+                continue
             
             df = df_raw[['date', 'open', 'high', 'low', 'close']].tail(500).copy()
             df.columns = ['timestamps', 'open', 'high', 'low', 'close']
