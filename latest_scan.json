@@ -1,2300 +1,2300 @@
 {
-  "lastUpdated": "2026-08-18T11:00:06.241677+00:00",
+  "lastUpdated": "2026-08-19T10:59:34.668517+00:00",
   "results": [
     {
-      "code": "000002",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.1,
-      "predictedPrice": 5.41,
-      "retPct": 74.63,
-      "status": "success"
-    },
-    {
-      "code": "603392",
-      "latestDate": "2026-08-18",
-      "currentPrice": 28.8,
-      "predictedPrice": 48.63,
-      "retPct": 68.85,
+      "code": "002594",
+      "latestDate": "2026-08-19",
+      "currentPrice": 88.66,
+      "predictedPrice": 202.8,
+      "retPct": 128.73,
       "status": "success"
     },
     {
       "code": "000002",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.1,
-      "predictedPrice": 5.07,
-      "retPct": 63.64,
-      "status": "success"
-    },
-    {
-      "code": "002459",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.65,
-      "predictedPrice": 12.4,
-      "retPct": 62.05,
-      "status": "success"
-    },
-    {
-      "code": "600745",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.14,
-      "predictedPrice": 27.75,
-      "retPct": 61.92,
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.07,
+      "predictedPrice": 6.79,
+      "retPct": 121.06,
       "status": "success"
     },
     {
       "code": "600340",
-      "latestDate": "2026-08-18",
-      "currentPrice": 1.1,
-      "predictedPrice": 1.66,
-      "retPct": 51.32,
-      "status": "success"
-    },
-    {
-      "code": "000625",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.13,
-      "predictedPrice": 10.49,
-      "retPct": 47.08,
-      "status": "success"
-    },
-    {
-      "code": "002304",
-      "latestDate": "2026-08-18",
-      "currentPrice": 39.65,
-      "predictedPrice": 58.22,
-      "retPct": 46.82,
-      "status": "success"
-    },
-    {
-      "code": "601238",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.1,
-      "predictedPrice": 7.37,
-      "retPct": 44.46,
+      "latestDate": "2026-08-19",
+      "currentPrice": 1.08,
+      "predictedPrice": 1.85,
+      "retPct": 71.39,
       "status": "success"
     },
     {
       "code": "600383",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.2,
-      "predictedPrice": 3.17,
-      "retPct": 44.26,
+      "latestDate": "2026-08-19",
+      "currentPrice": 2.19,
+      "predictedPrice": 3.74,
+      "retPct": 70.56,
       "status": "success"
     },
     {
-      "code": "600438",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.78,
-      "predictedPrice": 17.78,
-      "retPct": 39.14,
+      "code": "600745",
+      "latestDate": "2026-08-19",
+      "currentPrice": 16.3,
+      "predictedPrice": 25.98,
+      "retPct": 59.37,
       "status": "success"
     },
     {
-      "code": "603833",
-      "latestDate": "2026-08-18",
-      "currentPrice": 32.01,
-      "predictedPrice": 44.4,
-      "retPct": 38.7,
-      "status": "success"
-    },
-    {
-      "code": "600038",
-      "latestDate": "2026-08-18",
-      "currentPrice": 26.25,
-      "predictedPrice": 35.76,
-      "retPct": 36.24,
-      "status": "success"
-    },
-    {
-      "code": "300144",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.99,
-      "predictedPrice": 8.0,
-      "retPct": 33.59,
+      "code": "000625",
+      "latestDate": "2026-08-19",
+      "currentPrice": 7.04,
+      "predictedPrice": 10.98,
+      "retPct": 55.92,
       "status": "success"
     },
     {
       "code": "000858",
-      "latestDate": "2026-08-18",
-      "currentPrice": 72.56,
-      "predictedPrice": 96.36,
-      "retPct": 32.8,
-      "status": "success"
-    },
-    {
-      "code": "000877",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.68,
-      "predictedPrice": 4.88,
-      "retPct": 32.53,
-      "status": "success"
-    },
-    {
-      "code": "601800",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.87,
-      "predictedPrice": 7.68,
-      "retPct": 30.87,
-      "status": "success"
-    },
-    {
-      "code": "600104",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.01,
-      "predictedPrice": 13.09,
-      "retPct": 30.74,
-      "status": "success"
-    },
-    {
-      "code": "600085",
-      "latestDate": "2026-08-18",
-      "currentPrice": 24.17,
-      "predictedPrice": 31.56,
-      "retPct": 30.56,
-      "status": "success"
-    },
-    {
-      "code": "600845",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.02,
-      "predictedPrice": 23.5,
-      "retPct": 30.43,
-      "status": "success"
-    },
-    {
-      "code": "600161",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.36,
-      "predictedPrice": 16.1,
-      "retPct": 30.27,
-      "status": "success"
-    },
-    {
-      "code": "600436",
-      "latestDate": "2026-08-18",
-      "currentPrice": 128.76,
-      "predictedPrice": 167.65,
-      "retPct": 30.2,
+      "latestDate": "2026-08-19",
+      "currentPrice": 71.89,
+      "predictedPrice": 111.04,
+      "retPct": 54.46,
       "status": "success"
     },
     {
       "code": "300896",
-      "latestDate": "2026-08-18",
-      "currentPrice": 97.45,
-      "predictedPrice": 126.4,
-      "retPct": 29.71,
-      "status": "success"
-    },
-    {
-      "code": "601966",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.92,
-      "predictedPrice": 14.15,
-      "retPct": 29.57,
-      "status": "success"
-    },
-    {
-      "code": "000596",
-      "latestDate": "2026-08-18",
-      "currentPrice": 96.3,
-      "predictedPrice": 124.12,
-      "retPct": 28.89,
-      "status": "success"
-    },
-    {
-      "code": "300413",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.15,
-      "predictedPrice": 19.5,
-      "retPct": 28.68,
-      "status": "success"
-    },
-    {
-      "code": "600271",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.86,
-      "predictedPrice": 8.8,
-      "retPct": 28.21,
-      "status": "success"
-    },
-    {
-      "code": "601390",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.34,
-      "predictedPrice": 5.56,
-      "retPct": 28.08,
-      "status": "success"
-    },
-    {
-      "code": "601633",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.33,
-      "predictedPrice": 19.53,
-      "retPct": 27.39,
-      "status": "success"
-    },
-    {
-      "code": "601186",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.01,
-      "predictedPrice": 7.61,
-      "retPct": 26.59,
-      "status": "success"
-    },
-    {
-      "code": "600809",
-      "latestDate": "2026-08-18",
-      "currentPrice": 120.52,
-      "predictedPrice": 151.74,
-      "retPct": 25.91,
-      "status": "success"
-    },
-    {
-      "code": "600606",
-      "latestDate": "2026-08-18",
-      "currentPrice": 1.27,
-      "predictedPrice": 1.6,
-      "retPct": 25.87,
+      "latestDate": "2026-08-19",
+      "currentPrice": 94.3,
+      "predictedPrice": 140.59,
+      "retPct": 49.09,
       "status": "success"
     },
     {
       "code": "600104",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.01,
-      "predictedPrice": 12.6,
-      "retPct": 25.85,
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.99,
+      "predictedPrice": 14.83,
+      "retPct": 48.45,
       "status": "success"
     },
     {
-      "code": "600048",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.24,
-      "predictedPrice": 6.54,
-      "retPct": 24.72,
+      "code": "601238",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.01,
+      "predictedPrice": 7.42,
+      "retPct": 48.17,
       "status": "success"
     },
     {
-      "code": "600132",
-      "latestDate": "2026-08-18",
-      "currentPrice": 42.6,
-      "predictedPrice": 53.05,
-      "retPct": 24.53,
+      "code": "603392",
+      "latestDate": "2026-08-19",
+      "currentPrice": 28.01,
+      "predictedPrice": 41.32,
+      "retPct": 47.5,
       "status": "success"
     },
     {
-      "code": "601006",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.74,
-      "predictedPrice": 5.87,
-      "retPct": 23.93,
+      "code": "603833",
+      "latestDate": "2026-08-19",
+      "currentPrice": 32.58,
+      "predictedPrice": 47.57,
+      "retPct": 46.01,
       "status": "success"
     },
     {
-      "code": "603160",
-      "latestDate": "2026-08-18",
-      "currentPrice": 51.03,
-      "predictedPrice": 63.16,
-      "retPct": 23.77,
+      "code": "300413",
+      "latestDate": "2026-08-19",
+      "currentPrice": 14.84,
+      "predictedPrice": 21.41,
+      "retPct": 44.3,
       "status": "success"
     },
     {
-      "code": "600009",
-      "latestDate": "2026-08-18",
-      "currentPrice": 23.0,
-      "predictedPrice": 28.25,
-      "retPct": 22.84,
+      "code": "000877",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.61,
+      "predictedPrice": 5.08,
+      "retPct": 40.8,
       "status": "success"
     },
     {
-      "code": "603501",
-      "latestDate": "2026-08-18",
-      "currentPrice": 90.54,
-      "predictedPrice": 110.89,
-      "retPct": 22.48,
+      "code": "000002",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.07,
+      "predictedPrice": 4.28,
+      "retPct": 39.53,
       "status": "success"
     },
     {
-      "code": "002027",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.96,
-      "predictedPrice": 6.06,
-      "retPct": 22.24,
+      "code": "002304",
+      "latestDate": "2026-08-19",
+      "currentPrice": 39.02,
+      "predictedPrice": 53.07,
+      "retPct": 36.02,
+      "status": "success"
+    },
+    {
+      "code": "600438",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.3,
+      "predictedPrice": 16.7,
+      "retPct": 35.74,
+      "status": "success"
+    },
+    {
+      "code": "600809",
+      "latestDate": "2026-08-19",
+      "currentPrice": 119.3,
+      "predictedPrice": 161.3,
+      "retPct": 35.21,
+      "status": "success"
+    },
+    {
+      "code": "600606",
+      "latestDate": "2026-08-19",
+      "currentPrice": 1.25,
+      "predictedPrice": 1.68,
+      "retPct": 34.05,
       "status": "success"
     },
     {
       "code": "002024",
-      "latestDate": "2026-08-18",
-      "currentPrice": 1.19,
-      "predictedPrice": 1.45,
-      "retPct": 22.0,
+      "latestDate": "2026-08-19",
+      "currentPrice": 1.17,
+      "predictedPrice": 1.57,
+      "retPct": 34.02,
       "status": "success"
     },
     {
-      "code": "300122",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.48,
-      "predictedPrice": 15.12,
-      "retPct": 21.17,
+      "code": "603160",
+      "latestDate": "2026-08-19",
+      "currentPrice": 49.13,
+      "predictedPrice": 65.62,
+      "retPct": 33.57,
       "status": "success"
     },
     {
-      "code": "000069",
-      "latestDate": "2026-08-18",
-      "currentPrice": 1.77,
-      "predictedPrice": 2.14,
-      "retPct": 21.02,
+      "code": "600436",
+      "latestDate": "2026-08-19",
+      "currentPrice": 127.3,
+      "predictedPrice": 169.07,
+      "retPct": 32.81,
       "status": "success"
     },
     {
-      "code": "601111",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.86,
-      "predictedPrice": 7.09,
-      "retPct": 20.91,
+      "code": "600845",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.55,
+      "predictedPrice": 23.22,
+      "retPct": 32.3,
       "status": "success"
     },
     {
-      "code": "000876",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.19,
-      "predictedPrice": 8.69,
-      "retPct": 20.84,
-      "status": "success"
-    },
-    {
-      "code": "000568",
-      "latestDate": "2026-08-18",
-      "currentPrice": 86.62,
-      "predictedPrice": 104.48,
-      "retPct": 20.62,
-      "status": "success"
-    },
-    {
-      "code": "600426",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.04,
-      "predictedPrice": 25.28,
-      "retPct": 20.13,
-      "status": "success"
-    },
-    {
-      "code": "000963",
-      "latestDate": "2026-08-18",
-      "currentPrice": 28.94,
-      "predictedPrice": 34.76,
-      "retPct": 20.12,
-      "status": "success"
-    },
-    {
-      "code": "300015",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.57,
-      "predictedPrice": 10.26,
-      "retPct": 19.77,
-      "status": "success"
-    },
-    {
-      "code": "600332",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.03,
-      "predictedPrice": 25.16,
-      "retPct": 19.63,
-      "status": "success"
-    },
-    {
-      "code": "300601",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.38,
-      "predictedPrice": 14.76,
-      "retPct": 19.2,
-      "status": "success"
-    },
-    {
-      "code": "601965",
-      "latestDate": "2026-08-18",
-      "currentPrice": 13.94,
-      "predictedPrice": 16.61,
-      "retPct": 19.18,
-      "status": "success"
-    },
-    {
-      "code": "600585",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.43,
-      "predictedPrice": 20.75,
-      "retPct": 19.07,
-      "status": "success"
-    },
-    {
-      "code": "601611",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.06,
-      "predictedPrice": 13.11,
-      "retPct": 18.52,
-      "status": "success"
-    },
-    {
-      "code": "600115",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.5,
-      "predictedPrice": 4.13,
-      "retPct": 18.12,
-      "status": "success"
-    },
-    {
-      "code": "601668",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.36,
-      "predictedPrice": 5.15,
-      "retPct": 18.06,
-      "status": "success"
-    },
-    {
-      "code": "600600",
-      "latestDate": "2026-08-18",
-      "currentPrice": 51.63,
-      "predictedPrice": 60.77,
-      "retPct": 17.7,
-      "status": "success"
-    },
-    {
-      "code": "600029",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.01,
-      "predictedPrice": 5.89,
-      "retPct": 17.64,
-      "status": "success"
-    },
-    {
-      "code": "600760",
-      "latestDate": "2026-08-18",
-      "currentPrice": 43.94,
-      "predictedPrice": 51.25,
-      "retPct": 16.64,
-      "status": "success"
-    },
-    {
-      "code": "300760",
-      "latestDate": "2026-08-18",
-      "currentPrice": 150.55,
-      "predictedPrice": 175.45,
-      "retPct": 16.54,
-      "status": "success"
-    },
-    {
-      "code": "600019",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.84,
-      "predictedPrice": 6.79,
-      "retPct": 16.26,
-      "status": "success"
-    },
-    {
-      "code": "600111",
-      "latestDate": "2026-08-18",
-      "currentPrice": 42.06,
-      "predictedPrice": 48.83,
-      "retPct": 16.09,
-      "status": "success"
-    },
-    {
-      "code": "603659",
-      "latestDate": "2026-08-18",
-      "currentPrice": 24.61,
-      "predictedPrice": 28.48,
-      "retPct": 15.72,
-      "status": "success"
-    },
-    {
-      "code": "601668",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.36,
-      "predictedPrice": 5.04,
-      "retPct": 15.52,
-      "status": "success"
-    },
-    {
-      "code": "601606",
-      "latestDate": "2026-08-18",
-      "currentPrice": 33.7,
-      "predictedPrice": 38.81,
-      "retPct": 15.17,
-      "status": "success"
-    },
-    {
-      "code": "601601",
-      "latestDate": "2026-08-18",
-      "currentPrice": 29.98,
-      "predictedPrice": 34.49,
-      "retPct": 15.06,
-      "status": "success"
-    },
-    {
-      "code": "600875",
-      "latestDate": "2026-08-18",
-      "currentPrice": 27.58,
-      "predictedPrice": 31.72,
-      "retPct": 14.99,
-      "status": "success"
-    },
-    {
-      "code": "600848",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.52,
-      "predictedPrice": 9.8,
-      "retPct": 14.98,
-      "status": "success"
-    },
-    {
-      "code": "601021",
-      "latestDate": "2026-08-18",
-      "currentPrice": 44.27,
-      "predictedPrice": 50.84,
-      "retPct": 14.83,
-      "status": "success"
-    },
-    {
-      "code": "601878",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.25,
-      "predictedPrice": 10.56,
-      "retPct": 14.19,
-      "status": "success"
-    },
-    {
-      "code": "000425",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.04,
-      "predictedPrice": 9.16,
-      "retPct": 13.87,
-      "status": "success"
-    },
-    {
-      "code": "600547",
-      "latestDate": "2026-08-18",
-      "currentPrice": 30.61,
-      "predictedPrice": 34.77,
-      "retPct": 13.58,
-      "status": "success"
-    },
-    {
-      "code": "601669",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.68,
-      "predictedPrice": 5.28,
-      "retPct": 12.84,
-      "status": "success"
-    },
-    {
-      "code": "300498",
-      "latestDate": "2026-08-18",
-      "currentPrice": 13.9,
-      "predictedPrice": 15.67,
-      "retPct": 12.73,
-      "status": "success"
-    },
-    {
-      "code": "600905",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.71,
-      "predictedPrice": 4.18,
-      "retPct": 12.66,
-      "status": "success"
-    },
-    {
-      "code": "300136",
-      "latestDate": "2026-08-18",
-      "currentPrice": 69.65,
-      "predictedPrice": 78.42,
-      "retPct": 12.59,
-      "status": "success"
-    },
-    {
-      "code": "002202",
-      "latestDate": "2026-08-18",
-      "currentPrice": 22.01,
-      "predictedPrice": 24.77,
-      "retPct": 12.56,
-      "status": "success"
-    },
-    {
-      "code": "600111",
-      "latestDate": "2026-08-18",
-      "currentPrice": 42.06,
-      "predictedPrice": 47.27,
-      "retPct": 12.4,
-      "status": "success"
-    },
-    {
-      "code": "600741",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.32,
-      "predictedPrice": 17.22,
-      "retPct": 12.39,
-      "status": "success"
-    },
-    {
-      "code": "601155",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.14,
-      "predictedPrice": 12.47,
-      "retPct": 11.93,
-      "status": "success"
-    },
-    {
-      "code": "601618",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.56,
-      "predictedPrice": 2.86,
-      "retPct": 11.89,
+      "code": "002459",
+      "latestDate": "2026-08-19",
+      "currentPrice": 7.29,
+      "predictedPrice": 9.58,
+      "retPct": 31.44,
       "status": "success"
     },
     {
       "code": "600570",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.69,
-      "predictedPrice": 24.26,
-      "retPct": 11.83,
+      "latestDate": "2026-08-19",
+      "currentPrice": 20.99,
+      "predictedPrice": 27.54,
+      "retPct": 31.19,
+      "status": "success"
+    },
+    {
+      "code": "601800",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.83,
+      "predictedPrice": 7.59,
+      "retPct": 30.18,
+      "status": "success"
+    },
+    {
+      "code": "000596",
+      "latestDate": "2026-08-19",
+      "currentPrice": 93.0,
+      "predictedPrice": 120.77,
+      "retPct": 29.86,
+      "status": "success"
+    },
+    {
+      "code": "000069",
+      "latestDate": "2026-08-19",
+      "currentPrice": 1.76,
+      "predictedPrice": 2.28,
+      "retPct": 29.78,
+      "status": "success"
+    },
+    {
+      "code": "300144",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.89,
+      "predictedPrice": 7.64,
+      "retPct": 29.65,
       "status": "success"
     },
     {
       "code": "002460",
-      "latestDate": "2026-08-18",
-      "currentPrice": 53.59,
-      "predictedPrice": 59.93,
-      "retPct": 11.83,
+      "latestDate": "2026-08-19",
+      "currentPrice": 51.72,
+      "predictedPrice": 67.0,
+      "retPct": 29.54,
       "status": "success"
     },
     {
-      "code": "600050",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.3,
-      "predictedPrice": 4.81,
-      "retPct": 11.82,
+      "code": "601966",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.88,
+      "predictedPrice": 14.0,
+      "retPct": 28.7,
       "status": "success"
     },
     {
-      "code": "601888",
-      "latestDate": "2026-08-18",
-      "currentPrice": 53.88,
-      "predictedPrice": 60.23,
-      "retPct": 11.78,
-      "status": "success"
-    },
-    {
-      "code": "601012",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.84,
-      "predictedPrice": 14.34,
-      "retPct": 11.72,
-      "status": "success"
-    },
-    {
-      "code": "002594",
-      "latestDate": "2026-08-18",
-      "currentPrice": 89.53,
-      "predictedPrice": 99.85,
-      "retPct": 11.52,
-      "status": "success"
-    },
-    {
-      "code": "002465",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.61,
-      "predictedPrice": 11.8,
-      "retPct": 11.24,
-      "status": "success"
-    },
-    {
-      "code": "601868",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.53,
-      "predictedPrice": 2.8,
-      "retPct": 10.84,
-      "status": "success"
-    },
-    {
-      "code": "600023",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.87,
-      "predictedPrice": 5.39,
-      "retPct": 10.73,
-      "status": "success"
-    },
-    {
-      "code": "600372",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.16,
-      "predictedPrice": 12.35,
-      "retPct": 10.7,
-      "status": "success"
-    },
-    {
-      "code": "300014",
-      "latestDate": "2026-08-18",
-      "currentPrice": 56.66,
-      "predictedPrice": 62.68,
-      "retPct": 10.63,
-      "status": "success"
-    },
-    {
-      "code": "300118",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.48,
-      "predictedPrice": 11.57,
-      "retPct": 10.36,
-      "status": "success"
-    },
-    {
-      "code": "600027",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.55,
-      "predictedPrice": 5.02,
-      "retPct": 10.3,
-      "status": "success"
-    },
-    {
-      "code": "600050",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.3,
-      "predictedPrice": 4.73,
-      "retPct": 10.09,
-      "status": "success"
-    },
-    {
-      "code": "601901",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.84,
-      "predictedPrice": 7.53,
-      "retPct": 10.08,
-      "status": "success"
-    },
-    {
-      "code": "002007",
-      "latestDate": "2026-08-18",
-      "currentPrice": 13.12,
-      "predictedPrice": 14.38,
-      "retPct": 9.59,
-      "status": "success"
-    },
-    {
-      "code": "002601",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.34,
-      "predictedPrice": 16.81,
-      "retPct": 9.58,
+      "code": "600585",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.46,
+      "predictedPrice": 22.44,
+      "retPct": 28.53,
       "status": "success"
     },
     {
       "code": "002050",
-      "latestDate": "2026-08-18",
-      "currentPrice": 39.6,
-      "predictedPrice": 43.39,
-      "retPct": 9.56,
+      "latestDate": "2026-08-19",
+      "currentPrice": 36.79,
+      "predictedPrice": 47.19,
+      "retPct": 28.27,
       "status": "success"
     },
     {
-      "code": "002920",
-      "latestDate": "2026-08-18",
-      "currentPrice": 89.09,
-      "predictedPrice": 97.49,
-      "retPct": 9.43,
+      "code": "600009",
+      "latestDate": "2026-08-19",
+      "currentPrice": 22.95,
+      "predictedPrice": 29.42,
+      "retPct": 28.2,
       "status": "success"
     },
     {
-      "code": "600690",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.65,
-      "predictedPrice": 23.69,
-      "retPct": 9.42,
+      "code": "600600",
+      "latestDate": "2026-08-19",
+      "currentPrice": 51.37,
+      "predictedPrice": 65.71,
+      "retPct": 27.92,
       "status": "success"
     },
     {
-      "code": "601808",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.29,
-      "predictedPrice": 13.43,
-      "retPct": 9.25,
+      "code": "002027",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.98,
+      "predictedPrice": 6.36,
+      "retPct": 27.63,
       "status": "success"
     },
     {
-      "code": "300073",
-      "latestDate": "2026-08-18",
-      "currentPrice": 42.09,
-      "predictedPrice": 45.95,
-      "retPct": 9.18,
+      "code": "300122",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.07,
+      "predictedPrice": 15.27,
+      "retPct": 26.54,
       "status": "success"
     },
     {
-      "code": "300033",
-      "latestDate": "2026-08-18",
-      "currentPrice": 231.9,
-      "predictedPrice": 253.13,
-      "retPct": 9.16,
+      "code": "600111",
+      "latestDate": "2026-08-19",
+      "currentPrice": 41.07,
+      "predictedPrice": 51.82,
+      "retPct": 26.17,
       "status": "success"
     },
     {
-      "code": "600048",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.24,
-      "predictedPrice": 5.71,
-      "retPct": 9.03,
-      "status": "success"
-    },
-    {
-      "code": "002673",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.56,
-      "predictedPrice": 7.13,
-      "retPct": 8.66,
-      "status": "success"
-    },
-    {
-      "code": "600153",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.72,
-      "predictedPrice": 9.47,
-      "retPct": 8.56,
-      "status": "success"
-    },
-    {
-      "code": "002352",
-      "latestDate": "2026-08-18",
-      "currentPrice": 32.7,
-      "predictedPrice": 35.48,
-      "retPct": 8.51,
-      "status": "success"
-    },
-    {
-      "code": "601727",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.69,
-      "predictedPrice": 7.26,
-      "retPct": 8.51,
-      "status": "success"
-    },
-    {
-      "code": "601231",
-      "latestDate": "2026-08-18",
-      "currentPrice": 28.69,
-      "predictedPrice": 31.08,
-      "retPct": 8.34,
-      "status": "success"
-    },
-    {
-      "code": "601860",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.52,
-      "predictedPrice": 2.73,
-      "retPct": 8.31,
-      "status": "success"
-    },
-    {
-      "code": "000538",
-      "latestDate": "2026-08-18",
-      "currentPrice": 49.5,
-      "predictedPrice": 53.61,
-      "retPct": 8.3,
-      "status": "success"
-    },
-    {
-      "code": "000733",
-      "latestDate": "2026-08-18",
-      "currentPrice": 40.8,
-      "predictedPrice": 44.0,
-      "retPct": 7.85,
-      "status": "success"
-    },
-    {
-      "code": "600016",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.39,
-      "predictedPrice": 3.66,
-      "retPct": 7.83,
-      "status": "success"
-    },
-    {
-      "code": "000009",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.69,
-      "predictedPrice": 8.29,
-      "retPct": 7.82,
-      "status": "success"
-    },
-    {
-      "code": "601216",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.43,
-      "predictedPrice": 4.77,
-      "retPct": 7.74,
-      "status": "success"
-    },
-    {
-      "code": "601212",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.6,
-      "predictedPrice": 6.03,
-      "retPct": 7.61,
-      "status": "success"
-    },
-    {
-      "code": "000157",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.93,
-      "predictedPrice": 7.45,
-      "retPct": 7.48,
-      "status": "success"
-    },
-    {
-      "code": "600918",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.54,
-      "predictedPrice": 5.95,
-      "retPct": 7.36,
-      "status": "success"
-    },
-    {
-      "code": "601818",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.98,
-      "predictedPrice": 3.2,
-      "retPct": 7.31,
-      "status": "success"
-    },
-    {
-      "code": "600008",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.81,
-      "predictedPrice": 3.02,
-      "retPct": 7.3,
-      "status": "success"
-    },
-    {
-      "code": "601688",
-      "latestDate": "2026-08-18",
-      "currentPrice": 19.1,
-      "predictedPrice": 20.46,
-      "retPct": 7.13,
-      "status": "success"
-    },
-    {
-      "code": "601169",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.96,
-      "predictedPrice": 5.3,
-      "retPct": 6.78,
-      "status": "success"
-    },
-    {
-      "code": "600010",
-      "latestDate": "2026-08-18",
-      "currentPrice": 2.22,
-      "predictedPrice": 2.37,
-      "retPct": 6.73,
-      "status": "success"
-    },
-    {
-      "code": "000155",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.15,
-      "predictedPrice": 12.94,
-      "retPct": 6.53,
-      "status": "success"
-    },
-    {
-      "code": "603288",
-      "latestDate": "2026-08-18",
-      "currentPrice": 35.55,
-      "predictedPrice": 37.83,
-      "retPct": 6.42,
-      "status": "success"
-    },
-    {
-      "code": "000800",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.15,
-      "predictedPrice": 6.51,
-      "retPct": 5.88,
-      "status": "success"
-    },
-    {
-      "code": "601360",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.16,
-      "predictedPrice": 9.69,
-      "retPct": 5.8,
-      "status": "success"
-    },
-    {
-      "code": "601018",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.33,
-      "predictedPrice": 3.52,
-      "retPct": 5.73,
-      "status": "success"
-    },
-    {
-      "code": "300750",
-      "latestDate": "2026-08-18",
-      "currentPrice": 396.26,
-      "predictedPrice": 418.94,
-      "retPct": 5.72,
-      "status": "success"
-    },
-    {
-      "code": "603288",
-      "latestDate": "2026-08-18",
-      "currentPrice": 35.55,
-      "predictedPrice": 37.55,
-      "retPct": 5.62,
-      "status": "success"
-    },
-    {
-      "code": "000063",
-      "latestDate": "2026-08-18",
-      "currentPrice": 35.11,
-      "predictedPrice": 37.07,
-      "retPct": 5.59,
-      "status": "success"
-    },
-    {
-      "code": "600887",
-      "latestDate": "2026-08-18",
-      "currentPrice": 25.15,
-      "predictedPrice": 26.55,
-      "retPct": 5.58,
-      "status": "success"
-    },
-    {
-      "code": "600732",
-      "latestDate": "2026-08-18",
+      "code": "601012",
+      "latestDate": "2026-08-19",
       "currentPrice": 12.45,
-      "predictedPrice": 13.14,
-      "retPct": 5.58,
+      "predictedPrice": 15.69,
+      "retPct": 25.99,
       "status": "success"
     },
     {
-      "code": "601607",
-      "latestDate": "2026-08-18",
-      "currentPrice": 16.43,
-      "predictedPrice": 17.34,
-      "retPct": 5.52,
+      "code": "002465",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.89,
+      "predictedPrice": 12.43,
+      "retPct": 25.66,
       "status": "success"
     },
     {
-      "code": "000166",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.49,
-      "predictedPrice": 4.73,
-      "retPct": 5.37,
-      "status": "success"
-    },
-    {
-      "code": "601608",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.93,
-      "predictedPrice": 5.19,
-      "retPct": 5.35,
-      "status": "success"
-    },
-    {
-      "code": "600030",
-      "latestDate": "2026-08-18",
-      "currentPrice": 27.39,
-      "predictedPrice": 28.81,
-      "retPct": 5.19,
-      "status": "success"
-    },
-    {
-      "code": "600516",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.23,
-      "predictedPrice": 5.5,
-      "retPct": 5.14,
-      "status": "success"
-    },
-    {
-      "code": "601288",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.6,
-      "predictedPrice": 6.94,
-      "retPct": 5.1,
-      "status": "success"
-    },
-    {
-      "code": "600015",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.59,
-      "predictedPrice": 6.93,
-      "retPct": 5.09,
-      "status": "success"
-    },
-    {
-      "code": "000768",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.5,
-      "predictedPrice": 22.58,
-      "retPct": 5.04,
-      "status": "success"
-    },
-    {
-      "code": "600061",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.27,
-      "predictedPrice": 6.58,
-      "retPct": 5.0,
-      "status": "success"
-    },
-    {
-      "code": "300751",
-      "latestDate": "2026-08-18",
-      "currentPrice": 212.5,
-      "predictedPrice": 222.82,
-      "retPct": 4.86,
+      "code": "601111",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.81,
+      "predictedPrice": 7.28,
+      "retPct": 25.33,
       "status": "success"
     },
     {
       "code": "600000",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.97,
-      "predictedPrice": 9.37,
-      "retPct": 4.45,
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.08,
+      "predictedPrice": 11.37,
+      "retPct": 25.27,
       "status": "success"
     },
     {
-      "code": "600018",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.11,
-      "predictedPrice": 5.34,
-      "retPct": 4.43,
+      "code": "601888",
+      "latestDate": "2026-08-19",
+      "currentPrice": 52.88,
+      "predictedPrice": 66.16,
+      "retPct": 25.11,
       "status": "success"
     },
     {
-      "code": "600028",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.06,
-      "predictedPrice": 5.28,
-      "retPct": 4.42,
+      "code": "600111",
+      "latestDate": "2026-08-19",
+      "currentPrice": 41.07,
+      "predictedPrice": 51.33,
+      "retPct": 24.97,
       "status": "success"
     },
     {
-      "code": "600893",
-      "latestDate": "2026-08-18",
-      "currentPrice": 37.01,
-      "predictedPrice": 38.64,
-      "retPct": 4.4,
+      "code": "300760",
+      "latestDate": "2026-08-19",
+      "currentPrice": 150.63,
+      "predictedPrice": 186.85,
+      "retPct": 24.05,
       "status": "success"
     },
     {
-      "code": "600690",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.65,
-      "predictedPrice": 22.6,
-      "retPct": 4.4,
+      "code": "600104",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.99,
+      "predictedPrice": 12.39,
+      "retPct": 24.01,
       "status": "success"
     },
     {
-      "code": "600036",
-      "latestDate": "2026-08-18",
-      "currentPrice": 38.29,
-      "predictedPrice": 39.95,
-      "retPct": 4.34,
+      "code": "600271",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.64,
+      "predictedPrice": 8.22,
+      "retPct": 23.79,
       "status": "success"
     },
     {
-      "code": "601995",
-      "latestDate": "2026-08-18",
-      "currentPrice": 34.3,
-      "predictedPrice": 35.77,
-      "retPct": 4.3,
+      "code": "603501",
+      "latestDate": "2026-08-19",
+      "currentPrice": 86.9,
+      "predictedPrice": 107.56,
+      "retPct": 23.77,
       "status": "success"
     },
     {
-      "code": "600803",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.7,
-      "predictedPrice": 18.46,
-      "retPct": 4.28,
+      "code": "600048",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.23,
+      "predictedPrice": 6.45,
+      "retPct": 23.3,
       "status": "success"
     },
     {
-      "code": "601658",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.93,
-      "predictedPrice": 5.14,
-      "retPct": 4.22,
-      "status": "success"
-    },
-    {
-      "code": "600011",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.89,
-      "predictedPrice": 7.17,
-      "retPct": 4.08,
-      "status": "success"
-    },
-    {
-      "code": "601336",
-      "latestDate": "2026-08-18",
-      "currentPrice": 57.94,
-      "predictedPrice": 60.29,
-      "retPct": 4.06,
-      "status": "success"
-    },
-    {
-      "code": "601816",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.9,
-      "predictedPrice": 5.08,
-      "retPct": 3.67,
-      "status": "success"
-    },
-    {
-      "code": "601211",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.75,
-      "predictedPrice": 18.4,
-      "retPct": 3.64,
-      "status": "success"
-    },
-    {
-      "code": "601137",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.61,
-      "predictedPrice": 19.29,
-      "retPct": 3.64,
-      "status": "success"
-    },
-    {
-      "code": "300059",
-      "latestDate": "2026-08-18",
-      "currentPrice": 19.23,
-      "predictedPrice": 19.92,
-      "retPct": 3.59,
-      "status": "success"
-    },
-    {
-      "code": "600519",
-      "latestDate": "2026-08-18",
-      "currentPrice": 1297.99,
-      "predictedPrice": 1344.25,
-      "retPct": 3.56,
-      "status": "success"
-    },
-    {
-      "code": "002120",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.72,
-      "predictedPrice": 6.94,
-      "retPct": 3.31,
-      "status": "success"
-    },
-    {
-      "code": "600039",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.44,
-      "predictedPrice": 8.71,
-      "retPct": 3.16,
-      "status": "success"
-    },
-    {
-      "code": "601766",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.04,
-      "predictedPrice": 6.23,
-      "retPct": 3.11,
-      "status": "success"
-    },
-    {
-      "code": "002044",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.81,
-      "predictedPrice": 4.96,
-      "retPct": 3.04,
-      "status": "success"
-    },
-    {
-      "code": "600031",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.97,
-      "predictedPrice": 19.52,
-      "retPct": 2.89,
-      "status": "success"
-    },
-    {
-      "code": "601377",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.82,
-      "predictedPrice": 5.99,
-      "retPct": 2.85,
-      "status": "success"
-    },
-    {
-      "code": "601319",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.91,
-      "predictedPrice": 7.1,
-      "retPct": 2.79,
-      "status": "success"
-    },
-    {
-      "code": "600196",
-      "latestDate": "2026-08-18",
-      "currentPrice": 24.03,
-      "predictedPrice": 24.66,
-      "retPct": 2.64,
-      "status": "success"
-    },
-    {
-      "code": "600066",
-      "latestDate": "2026-08-18",
-      "currentPrice": 29.59,
-      "predictedPrice": 30.37,
-      "retPct": 2.63,
-      "status": "success"
-    },
-    {
-      "code": "002714",
-      "latestDate": "2026-08-18",
-      "currentPrice": 39.93,
-      "predictedPrice": 40.95,
-      "retPct": 2.56,
-      "status": "success"
-    },
-    {
-      "code": "600276",
-      "latestDate": "2026-08-18",
-      "currentPrice": 52.37,
-      "predictedPrice": 53.64,
-      "retPct": 2.42,
-      "status": "success"
-    },
-    {
-      "code": "601318",
-      "latestDate": "2026-08-18",
-      "currentPrice": 51.32,
-      "predictedPrice": 52.43,
-      "retPct": 2.16,
-      "status": "success"
-    },
-    {
-      "code": "600958",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.0,
-      "predictedPrice": 9.18,
-      "retPct": 2.03,
-      "status": "success"
-    },
-    {
-      "code": "600025",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.65,
-      "predictedPrice": 9.84,
-      "retPct": 1.93,
-      "status": "success"
-    },
-    {
-      "code": "600406",
-      "latestDate": "2026-08-18",
-      "currentPrice": 23.54,
-      "predictedPrice": 23.98,
-      "retPct": 1.89,
-      "status": "success"
-    },
-    {
-      "code": "000408",
-      "latestDate": "2026-08-18",
-      "currentPrice": 78.72,
-      "predictedPrice": 80.21,
-      "retPct": 1.89,
-      "status": "success"
-    },
-    {
-      "code": "601877",
-      "latestDate": "2026-08-18",
-      "currentPrice": 24.75,
-      "predictedPrice": 25.21,
-      "retPct": 1.85,
-      "status": "success"
-    },
-    {
-      "code": "000001",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.05,
-      "predictedPrice": 11.24,
-      "retPct": 1.72,
-      "status": "success"
-    },
-    {
-      "code": "601985",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.82,
-      "predictedPrice": 8.97,
-      "retPct": 1.71,
-      "status": "success"
-    },
-    {
-      "code": "002241",
-      "latestDate": "2026-08-18",
-      "currentPrice": 22.48,
-      "predictedPrice": 22.85,
-      "retPct": 1.64,
-      "status": "success"
-    },
-    {
-      "code": "600150",
-      "latestDate": "2026-08-18",
-      "currentPrice": 33.49,
-      "predictedPrice": 34.04,
-      "retPct": 1.63,
-      "status": "success"
-    },
-    {
-      "code": "601628",
-      "latestDate": "2026-08-18",
-      "currentPrice": 36.95,
-      "predictedPrice": 37.55,
-      "retPct": 1.62,
-      "status": "success"
-    },
-    {
-      "code": "603198",
-      "latestDate": "2026-08-18",
-      "currentPrice": 40.1,
-      "predictedPrice": 40.62,
-      "retPct": 1.29,
-      "status": "success"
-    },
-    {
-      "code": "603799",
-      "latestDate": "2026-08-18",
-      "currentPrice": 41.87,
-      "predictedPrice": 42.41,
-      "retPct": 1.28,
-      "status": "success"
-    },
-    {
-      "code": "002475",
-      "latestDate": "2026-08-18",
-      "currentPrice": 57.74,
-      "predictedPrice": 58.45,
-      "retPct": 1.23,
-      "status": "success"
-    },
-    {
-      "code": "600900",
-      "latestDate": "2026-08-18",
-      "currentPrice": 28.12,
-      "predictedPrice": 28.45,
-      "retPct": 1.19,
-      "status": "success"
-    },
-    {
-      "code": "600941",
-      "latestDate": "2026-08-18",
-      "currentPrice": 95.74,
-      "predictedPrice": 96.75,
-      "retPct": 1.05,
-      "status": "success"
-    },
-    {
-      "code": "600660",
-      "latestDate": "2026-08-18",
-      "currentPrice": 56.16,
-      "predictedPrice": 56.66,
-      "retPct": 0.89,
-      "status": "success"
-    },
-    {
-      "code": "600219",
-      "latestDate": "2026-08-18",
-      "currentPrice": 4.91,
-      "predictedPrice": 4.95,
-      "retPct": 0.84,
-      "status": "success"
-    },
-    {
-      "code": "002236",
-      "latestDate": "2026-08-18",
-      "currentPrice": 16.66,
-      "predictedPrice": 16.78,
-      "retPct": 0.7,
-      "status": "success"
-    },
-    {
-      "code": "600039",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.44,
-      "predictedPrice": 8.5,
-      "retPct": 0.66,
-      "status": "success"
-    },
-    {
-      "code": "600867",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.36,
-      "predictedPrice": 8.39,
-      "retPct": 0.33,
-      "status": "success"
-    },
-    {
-      "code": "601328",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.01,
-      "predictedPrice": 7.03,
-      "retPct": 0.32,
-      "status": "success"
-    },
-    {
-      "code": "600109",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.55,
-      "predictedPrice": 8.58,
-      "retPct": 0.31,
-      "status": "success"
-    },
-    {
-      "code": "601577",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.22,
-      "predictedPrice": 9.24,
-      "retPct": 0.24,
-      "status": "success"
-    },
-    {
-      "code": "300347",
-      "latestDate": "2026-08-18",
-      "currentPrice": 53.95,
-      "predictedPrice": 54.04,
-      "retPct": 0.16,
-      "status": "success"
-    },
-    {
-      "code": "000001",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.05,
-      "predictedPrice": 11.06,
-      "retPct": 0.08,
-      "status": "success"
-    },
-    {
-      "code": "600999",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.05,
-      "predictedPrice": 18.04,
-      "retPct": -0.04,
-      "status": "success"
-    },
-    {
-      "code": "000895",
-      "latestDate": "2026-08-18",
-      "currentPrice": 24.98,
-      "predictedPrice": 24.95,
-      "retPct": -0.13,
-      "status": "success"
-    },
-    {
-      "code": "000001",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.05,
-      "predictedPrice": 11.03,
-      "retPct": -0.22,
-      "status": "success"
-    },
-    {
-      "code": "002028",
-      "latestDate": "2026-08-18",
-      "currentPrice": 182.44,
-      "predictedPrice": 182.04,
-      "retPct": -0.22,
-      "status": "success"
-    },
-    {
-      "code": "300124",
-      "latestDate": "2026-08-18",
-      "currentPrice": 62.18,
-      "predictedPrice": 62.01,
-      "retPct": -0.28,
-      "status": "success"
-    },
-    {
-      "code": "600588",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.44,
-      "predictedPrice": 11.4,
-      "retPct": -0.33,
-      "status": "success"
-    },
-    {
-      "code": "603986",
-      "latestDate": "2026-08-18",
-      "currentPrice": 436.74,
-      "predictedPrice": 434.54,
-      "retPct": -0.5,
-      "status": "success"
-    },
-    {
-      "code": "300274",
-      "latestDate": "2026-08-18",
-      "currentPrice": 118.04,
-      "predictedPrice": 117.24,
-      "retPct": -0.68,
-      "status": "success"
-    },
-    {
-      "code": "300059",
-      "latestDate": "2026-08-18",
-      "currentPrice": 19.23,
-      "predictedPrice": 19.09,
-      "retPct": -0.73,
-      "status": "success"
-    },
-    {
-      "code": "601162",
-      "latestDate": "2026-08-18",
-      "currentPrice": 3.64,
-      "predictedPrice": 3.61,
-      "retPct": -0.86,
-      "status": "success"
-    },
-    {
-      "code": "000039",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.56,
-      "predictedPrice": 9.48,
-      "retPct": -0.88,
-      "status": "success"
-    },
-    {
-      "code": "601009",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.47,
-      "predictedPrice": 11.36,
-      "retPct": -0.95,
-      "status": "success"
-    },
-    {
-      "code": "601088",
-      "latestDate": "2026-08-18",
-      "currentPrice": 45.7,
-      "predictedPrice": 45.24,
-      "retPct": -1.02,
-      "status": "success"
-    },
-    {
-      "code": "600346",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.96,
-      "predictedPrice": 17.75,
-      "retPct": -1.17,
-      "status": "success"
-    },
-    {
-      "code": "603993",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.82,
-      "predictedPrice": 18.6,
-      "retPct": -1.18,
-      "status": "success"
-    },
-    {
-      "code": "600011",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.89,
-      "predictedPrice": 6.81,
-      "retPct": -1.19,
-      "status": "success"
-    },
-    {
-      "code": "600872",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.85,
-      "predictedPrice": 18.54,
-      "retPct": -1.66,
-      "status": "success"
-    },
-    {
-      "code": "002179",
-      "latestDate": "2026-08-18",
-      "currentPrice": 35.71,
-      "predictedPrice": 35.1,
-      "retPct": -1.72,
-      "status": "success"
-    },
-    {
-      "code": "002493",
-      "latestDate": "2026-08-18",
-      "currentPrice": 12.87,
-      "predictedPrice": 12.64,
-      "retPct": -1.75,
-      "status": "success"
-    },
-    {
-      "code": "601600",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.45,
-      "predictedPrice": 9.26,
-      "retPct": -2.0,
-      "status": "success"
-    },
-    {
-      "code": "601998",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.81,
-      "predictedPrice": 7.65,
-      "retPct": -2.09,
-      "status": "success"
-    },
-    {
-      "code": "601066",
-      "latestDate": "2026-08-18",
-      "currentPrice": 25.43,
-      "predictedPrice": 24.88,
-      "retPct": -2.18,
-      "status": "success"
-    },
-    {
-      "code": "600521",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.09,
-      "predictedPrice": 16.69,
-      "retPct": -2.34,
-      "status": "success"
-    },
-    {
-      "code": "002001",
-      "latestDate": "2026-08-18",
-      "currentPrice": 29.0,
-      "predictedPrice": 28.31,
-      "retPct": -2.39,
-      "status": "success"
-    },
-    {
-      "code": "002466",
-      "latestDate": "2026-08-18",
-      "currentPrice": 47.93,
-      "predictedPrice": 46.77,
-      "retPct": -2.42,
-      "status": "success"
-    },
-    {
-      "code": "601838",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.0,
-      "predictedPrice": 17.55,
-      "retPct": -2.5,
-      "status": "success"
-    },
-    {
-      "code": "601615",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.48,
-      "predictedPrice": 11.18,
-      "retPct": -2.58,
-      "status": "success"
-    },
-    {
-      "code": "600012",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.84,
-      "predictedPrice": 15.42,
-      "retPct": -2.68,
-      "status": "success"
-    },
-    {
-      "code": "600535",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.39,
-      "predictedPrice": 14.95,
-      "retPct": -2.86,
-      "status": "success"
-    },
-    {
-      "code": "000651",
-      "latestDate": "2026-08-18",
-      "currentPrice": 40.06,
-      "predictedPrice": 38.76,
-      "retPct": -3.26,
-      "status": "success"
-    },
-    {
-      "code": "600795",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.03,
-      "predictedPrice": 4.87,
-      "retPct": -3.26,
-      "status": "success"
-    },
-    {
-      "code": "601088",
-      "latestDate": "2026-08-18",
-      "currentPrice": 45.7,
-      "predictedPrice": 44.14,
-      "retPct": -3.4,
-      "status": "success"
-    },
-    {
-      "code": "601166",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.85,
-      "predictedPrice": 17.24,
-      "retPct": -3.44,
-      "status": "success"
-    },
-    {
-      "code": "600352",
-      "latestDate": "2026-08-18",
-      "currentPrice": 13.03,
-      "predictedPrice": 12.55,
-      "retPct": -3.68,
-      "status": "success"
-    },
-    {
-      "code": "600489",
-      "latestDate": "2026-08-18",
-      "currentPrice": 25.35,
-      "predictedPrice": 24.39,
-      "retPct": -3.79,
-      "status": "success"
-    },
-    {
-      "code": "600309",
-      "latestDate": "2026-08-18",
-      "currentPrice": 73.27,
-      "predictedPrice": 70.43,
-      "retPct": -3.88,
-      "status": "success"
-    },
-    {
-      "code": "600919",
-      "latestDate": "2026-08-18",
-      "currentPrice": 11.71,
-      "predictedPrice": 11.16,
-      "retPct": -4.68,
-      "status": "success"
-    },
-    {
-      "code": "600118",
-      "latestDate": "2026-08-18",
-      "currentPrice": 69.0,
-      "predictedPrice": 65.75,
-      "retPct": -4.72,
-      "status": "success"
-    },
-    {
-      "code": "601398",
-      "latestDate": "2026-08-18",
-      "currentPrice": 7.67,
-      "predictedPrice": 7.31,
-      "retPct": -4.74,
-      "status": "success"
-    },
-    {
-      "code": "600926",
-      "latestDate": "2026-08-18",
-      "currentPrice": 16.56,
-      "predictedPrice": 15.72,
-      "retPct": -5.06,
-      "status": "success"
-    },
-    {
-      "code": "600026",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.0,
-      "predictedPrice": 17.04,
-      "retPct": -5.34,
-      "status": "success"
-    },
-    {
-      "code": "601988",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.03,
-      "predictedPrice": 5.7,
-      "retPct": -5.51,
-      "status": "success"
-    },
-    {
-      "code": "000333",
-      "latestDate": "2026-08-18",
-      "currentPrice": 83.58,
-      "predictedPrice": 78.76,
-      "retPct": -5.77,
-      "status": "success"
-    },
-    {
-      "code": "601939",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.43,
-      "predictedPrice": 9.8,
-      "retPct": -6.03,
-      "status": "success"
-    },
-    {
-      "code": "600497",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.18,
-      "predictedPrice": 9.53,
-      "retPct": -6.4,
-      "status": "success"
-    },
-    {
-      "code": "600703",
-      "latestDate": "2026-08-18",
-      "currentPrice": 14.83,
-      "predictedPrice": 13.83,
-      "retPct": -6.76,
-      "status": "success"
-    },
-    {
-      "code": "300012",
-      "latestDate": "2026-08-18",
-      "currentPrice": 15.22,
-      "predictedPrice": 14.18,
-      "retPct": -6.83,
-      "status": "success"
-    },
-    {
-      "code": "002180",
-      "latestDate": "2026-08-18",
-      "currentPrice": 18.85,
-      "predictedPrice": 17.48,
-      "retPct": -7.25,
-      "status": "success"
-    },
-    {
-      "code": "000630",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.68,
-      "predictedPrice": 6.19,
-      "retPct": -7.27,
-      "status": "success"
-    },
-    {
-      "code": "601108",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.83,
-      "predictedPrice": 8.13,
-      "retPct": -7.96,
-      "status": "success"
-    },
-    {
-      "code": "601001",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.39,
-      "predictedPrice": 15.99,
-      "retPct": -8.06,
-      "status": "success"
-    },
-    {
-      "code": "601919",
-      "latestDate": "2026-08-18",
-      "currentPrice": 16.31,
-      "predictedPrice": 14.98,
-      "retPct": -8.16,
-      "status": "success"
-    },
-    {
-      "code": "300142",
-      "latestDate": "2026-08-18",
-      "currentPrice": 13.08,
-      "predictedPrice": 12.0,
-      "retPct": -8.28,
-      "status": "success"
-    },
-    {
-      "code": "600233",
-      "latestDate": "2026-08-18",
-      "currentPrice": 19.25,
-      "predictedPrice": 17.64,
-      "retPct": -8.36,
-      "status": "success"
-    },
-    {
-      "code": "300408",
-      "latestDate": "2026-08-18",
-      "currentPrice": 123.99,
-      "predictedPrice": 113.4,
-      "retPct": -8.54,
-      "status": "success"
-    },
-    {
-      "code": "300628",
-      "latestDate": "2026-08-18",
-      "currentPrice": 40.04,
-      "predictedPrice": 36.61,
-      "retPct": -8.56,
-      "status": "success"
-    },
-    {
-      "code": "601857",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.92,
-      "predictedPrice": 9.97,
-      "retPct": -8.68,
-      "status": "success"
-    },
-    {
-      "code": "601699",
-      "latestDate": "2026-08-18",
-      "currentPrice": 16.49,
-      "predictedPrice": 15.02,
-      "retPct": -8.91,
-      "status": "success"
-    },
-    {
-      "code": "601233",
-      "latestDate": "2026-08-18",
-      "currentPrice": 23.92,
-      "predictedPrice": 21.72,
-      "retPct": -9.18,
-      "status": "success"
-    },
-    {
-      "code": "600188",
-      "latestDate": "2026-08-18",
-      "currentPrice": 22.42,
-      "predictedPrice": 20.35,
-      "retPct": -9.24,
-      "status": "success"
-    },
-    {
-      "code": "002129",
-      "latestDate": "2026-08-18",
-      "currentPrice": 9.95,
-      "predictedPrice": 8.94,
-      "retPct": -10.16,
-      "status": "success"
-    },
-    {
-      "code": "000783",
-      "latestDate": "2026-08-18",
-      "currentPrice": 8.89,
-      "predictedPrice": 7.98,
-      "retPct": -10.21,
-      "status": "success"
-    },
-    {
-      "code": "601899",
-      "latestDate": "2026-08-18",
-      "currentPrice": 33.56,
-      "predictedPrice": 29.77,
-      "retPct": -11.28,
-      "status": "success"
-    },
-    {
-      "code": "000776",
-      "latestDate": "2026-08-18",
-      "currentPrice": 21.1,
-      "predictedPrice": 18.71,
-      "retPct": -11.32,
-      "status": "success"
-    },
-    {
-      "code": "601225",
-      "latestDate": "2026-08-18",
-      "currentPrice": 25.5,
-      "predictedPrice": 22.39,
-      "retPct": -12.2,
-      "status": "success"
-    },
-    {
-      "code": "603233",
-      "latestDate": "2026-08-18",
-      "currentPrice": 17.91,
-      "predictedPrice": 15.69,
-      "retPct": -12.4,
-      "status": "success"
-    },
-    {
-      "code": "000100",
-      "latestDate": "2026-08-18",
-      "currentPrice": 5.24,
-      "predictedPrice": 4.58,
-      "retPct": -12.59,
-      "status": "success"
-    },
-    {
-      "code": "600309",
-      "latestDate": "2026-08-18",
-      "currentPrice": 73.27,
-      "predictedPrice": 64.0,
-      "retPct": -12.65,
-      "status": "success"
-    },
-    {
-      "code": "002415",
-      "latestDate": "2026-08-18",
-      "currentPrice": 35.18,
-      "predictedPrice": 30.65,
-      "retPct": -12.87,
-      "status": "success"
-    },
-    {
-      "code": "600801",
-      "latestDate": "2026-08-18",
-      "currentPrice": 22.78,
-      "predictedPrice": 19.79,
-      "retPct": -13.12,
-      "status": "success"
-    },
-    {
-      "code": "300223",
-      "latestDate": "2026-08-18",
-      "currentPrice": 152.75,
-      "predictedPrice": 132.5,
-      "retPct": -13.25,
-      "status": "success"
-    },
-    {
-      "code": "002142",
-      "latestDate": "2026-08-18",
-      "currentPrice": 32.46,
-      "predictedPrice": 28.12,
-      "retPct": -13.37,
-      "status": "success"
-    },
-    {
-      "code": "300866",
-      "latestDate": "2026-08-18",
-      "currentPrice": 116.29,
-      "predictedPrice": 100.61,
-      "retPct": -13.48,
-      "status": "success"
-    },
-    {
-      "code": "603019",
-      "latestDate": "2026-08-18",
-      "currentPrice": 89.87,
-      "predictedPrice": 76.67,
-      "retPct": -14.69,
-      "status": "success"
-    },
-    {
-      "code": "601918",
-      "latestDate": "2026-08-18",
-      "currentPrice": 10.27,
-      "predictedPrice": 8.71,
-      "retPct": -15.15,
-      "status": "success"
-    },
-    {
-      "code": "601698",
-      "latestDate": "2026-08-18",
-      "currentPrice": 27.06,
-      "predictedPrice": 22.83,
-      "retPct": -15.63,
-      "status": "success"
-    },
-    {
-      "code": "600183",
-      "latestDate": "2026-08-18",
-      "currentPrice": 139.41,
-      "predictedPrice": 117.32,
-      "retPct": -15.85,
-      "status": "success"
-    },
-    {
-      "code": "600989",
-      "latestDate": "2026-08-18",
-      "currentPrice": 23.55,
-      "predictedPrice": 19.8,
-      "retPct": -15.91,
-      "status": "success"
-    },
-    {
-      "code": "600362",
-      "latestDate": "2026-08-18",
-      "currentPrice": 46.6,
-      "predictedPrice": 38.71,
-      "retPct": -16.94,
-      "status": "success"
-    },
-    {
-      "code": "000725",
-      "latestDate": "2026-08-18",
-      "currentPrice": 6.47,
-      "predictedPrice": 5.34,
-      "retPct": -17.54,
-      "status": "success"
-    },
-    {
-      "code": "000977",
-      "latestDate": "2026-08-18",
-      "currentPrice": 80.97,
-      "predictedPrice": 65.96,
-      "retPct": -18.53,
-      "status": "success"
-    },
-    {
-      "code": "600584",
-      "latestDate": "2026-08-18",
-      "currentPrice": 85.42,
-      "predictedPrice": 68.79,
-      "retPct": -19.46,
-      "status": "success"
-    },
-    {
-      "code": "002916",
-      "latestDate": "2026-08-18",
-      "currentPrice": 381.85,
-      "predictedPrice": 307.53,
-      "retPct": -19.46,
+      "code": "601390",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.31,
+      "predictedPrice": 5.31,
+      "retPct": 23.12,
       "status": "success"
     },
     {
       "code": "600522",
-      "latestDate": "2026-08-18",
-      "currentPrice": 35.29,
-      "predictedPrice": 28.3,
-      "retPct": -19.81,
+      "latestDate": "2026-08-19",
+      "currentPrice": 32.02,
+      "predictedPrice": 39.42,
+      "retPct": 23.12,
       "status": "success"
     },
     {
-      "code": "600176",
-      "latestDate": "2026-08-18",
-      "currentPrice": 44.91,
-      "predictedPrice": 35.99,
-      "retPct": -19.85,
+      "code": "601155",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.08,
+      "predictedPrice": 13.59,
+      "retPct": 22.62,
       "status": "success"
     },
     {
-      "code": "000938",
-      "latestDate": "2026-08-18",
-      "currentPrice": 39.25,
-      "predictedPrice": 30.88,
-      "retPct": -21.33,
+      "code": "300118",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.67,
+      "predictedPrice": 11.86,
+      "retPct": 22.62,
+      "status": "success"
+    },
+    {
+      "code": "600038",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.81,
+      "predictedPrice": 31.52,
+      "retPct": 22.12,
+      "status": "success"
+    },
+    {
+      "code": "600085",
+      "latestDate": "2026-08-19",
+      "currentPrice": 24.06,
+      "predictedPrice": 29.33,
+      "retPct": 21.89,
+      "status": "success"
+    },
+    {
+      "code": "300601",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.06,
+      "predictedPrice": 14.69,
+      "retPct": 21.81,
+      "status": "success"
+    },
+    {
+      "code": "600132",
+      "latestDate": "2026-08-19",
+      "currentPrice": 42.51,
+      "predictedPrice": 51.52,
+      "retPct": 21.19,
+      "status": "success"
+    },
+    {
+      "code": "000876",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.95,
+      "predictedPrice": 8.42,
+      "retPct": 21.18,
+      "status": "success"
+    },
+    {
+      "code": "000963",
+      "latestDate": "2026-08-19",
+      "currentPrice": 28.5,
+      "predictedPrice": 34.25,
+      "retPct": 20.16,
+      "status": "success"
+    },
+    {
+      "code": "601021",
+      "latestDate": "2026-08-19",
+      "currentPrice": 44.14,
+      "predictedPrice": 52.86,
+      "retPct": 19.75,
+      "status": "success"
+    },
+    {
+      "code": "601965",
+      "latestDate": "2026-08-19",
+      "currentPrice": 13.91,
+      "predictedPrice": 16.61,
+      "retPct": 19.41,
+      "status": "success"
+    },
+    {
+      "code": "300274",
+      "latestDate": "2026-08-19",
+      "currentPrice": 111.49,
+      "predictedPrice": 132.86,
+      "retPct": 19.17,
+      "status": "success"
+    },
+    {
+      "code": "600161",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.27,
+      "predictedPrice": 14.59,
+      "retPct": 18.91,
+      "status": "success"
+    },
+    {
+      "code": "002920",
+      "latestDate": "2026-08-19",
+      "currentPrice": 84.66,
+      "predictedPrice": 100.47,
+      "retPct": 18.68,
+      "status": "success"
+    },
+    {
+      "code": "300015",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.43,
+      "predictedPrice": 9.98,
+      "retPct": 18.44,
+      "status": "success"
+    },
+    {
+      "code": "000408",
+      "latestDate": "2026-08-19",
+      "currentPrice": 75.56,
+      "predictedPrice": 89.41,
+      "retPct": 18.32,
+      "status": "success"
+    },
+    {
+      "code": "601186",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.97,
+      "predictedPrice": 7.06,
+      "retPct": 18.27,
+      "status": "success"
+    },
+    {
+      "code": "601006",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.77,
+      "predictedPrice": 5.64,
+      "retPct": 18.25,
+      "status": "success"
+    },
+    {
+      "code": "601615",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.78,
+      "predictedPrice": 12.75,
+      "retPct": 18.23,
+      "status": "success"
+    },
+    {
+      "code": "600588",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.89,
+      "predictedPrice": 12.86,
+      "retPct": 18.07,
+      "status": "success"
+    },
+    {
+      "code": "000568",
+      "latestDate": "2026-08-19",
+      "currentPrice": 84.5,
+      "predictedPrice": 99.58,
+      "retPct": 17.84,
+      "status": "success"
+    },
+    {
+      "code": "600048",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.23,
+      "predictedPrice": 6.16,
+      "retPct": 17.71,
+      "status": "success"
+    },
+    {
+      "code": "000733",
+      "latestDate": "2026-08-19",
+      "currentPrice": 38.85,
+      "predictedPrice": 45.69,
+      "retPct": 17.61,
+      "status": "success"
+    },
+    {
+      "code": "601668",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.41,
+      "predictedPrice": 5.18,
+      "retPct": 17.48,
+      "status": "success"
+    },
+    {
+      "code": "002007",
+      "latestDate": "2026-08-19",
+      "currentPrice": 13.04,
+      "predictedPrice": 15.26,
+      "retPct": 17.05,
+      "status": "success"
+    },
+    {
+      "code": "300223",
+      "latestDate": "2026-08-19",
+      "currentPrice": 137.25,
+      "predictedPrice": 159.62,
+      "retPct": 16.3,
+      "status": "success"
+    },
+    {
+      "code": "002044",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.64,
+      "predictedPrice": 5.39,
+      "retPct": 16.27,
+      "status": "success"
+    },
+    {
+      "code": "601360",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.83,
+      "predictedPrice": 10.26,
+      "retPct": 16.21,
+      "status": "success"
+    },
+    {
+      "code": "600118",
+      "latestDate": "2026-08-19",
+      "currentPrice": 67.51,
+      "predictedPrice": 78.38,
+      "retPct": 16.09,
+      "status": "success"
+    },
+    {
+      "code": "603799",
+      "latestDate": "2026-08-19",
+      "currentPrice": 39.55,
+      "predictedPrice": 45.9,
+      "retPct": 16.05,
+      "status": "success"
+    },
+    {
+      "code": "600741",
+      "latestDate": "2026-08-19",
+      "currentPrice": 15.33,
+      "predictedPrice": 17.76,
+      "retPct": 15.87,
+      "status": "success"
+    },
+    {
+      "code": "300033",
+      "latestDate": "2026-08-19",
+      "currentPrice": 223.0,
+      "predictedPrice": 257.29,
+      "retPct": 15.38,
+      "status": "success"
+    },
+    {
+      "code": "300498",
+      "latestDate": "2026-08-19",
+      "currentPrice": 13.59,
+      "predictedPrice": 15.6,
+      "retPct": 14.8,
+      "status": "success"
+    },
+    {
+      "code": "601901",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.77,
+      "predictedPrice": 7.77,
+      "retPct": 14.71,
+      "status": "success"
+    },
+    {
+      "code": "600332",
+      "latestDate": "2026-08-19",
+      "currentPrice": 21.06,
+      "predictedPrice": 24.15,
+      "retPct": 14.69,
+      "status": "success"
+    },
+    {
+      "code": "600050",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.17,
+      "predictedPrice": 4.76,
+      "retPct": 14.22,
+      "status": "success"
+    },
+    {
+      "code": "600023",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.85,
+      "predictedPrice": 5.54,
+      "retPct": 14.15,
+      "status": "success"
+    },
+    {
+      "code": "601766",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.09,
+      "predictedPrice": 6.94,
+      "retPct": 13.9,
+      "status": "success"
+    },
+    {
+      "code": "002352",
+      "latestDate": "2026-08-19",
+      "currentPrice": 32.78,
+      "predictedPrice": 37.24,
+      "retPct": 13.59,
+      "status": "success"
+    },
+    {
+      "code": "600027",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.5,
+      "predictedPrice": 5.11,
+      "retPct": 13.55,
+      "status": "success"
+    },
+    {
+      "code": "600426",
+      "latestDate": "2026-08-19",
+      "currentPrice": 20.96,
+      "predictedPrice": 23.78,
+      "retPct": 13.46,
+      "status": "success"
+    },
+    {
+      "code": "601878",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.15,
+      "predictedPrice": 10.37,
+      "retPct": 13.33,
+      "status": "success"
+    },
+    {
+      "code": "601319",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.88,
+      "predictedPrice": 7.79,
+      "retPct": 13.25,
+      "status": "success"
+    },
+    {
+      "code": "601668",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.41,
+      "predictedPrice": 4.99,
+      "retPct": 13.24,
+      "status": "success"
+    },
+    {
+      "code": "300059",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.73,
+      "predictedPrice": 21.13,
+      "retPct": 12.82,
+      "status": "success"
+    },
+    {
+      "code": "000768",
+      "latestDate": "2026-08-19",
+      "currentPrice": 20.83,
+      "predictedPrice": 23.5,
+      "retPct": 12.81,
+      "status": "success"
+    },
+    {
+      "code": "600848",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.46,
+      "predictedPrice": 9.54,
+      "retPct": 12.74,
+      "status": "success"
+    },
+    {
+      "code": "601633",
+      "latestDate": "2026-08-19",
+      "currentPrice": 15.23,
+      "predictedPrice": 17.13,
+      "retPct": 12.46,
+      "status": "success"
+    },
+    {
+      "code": "002466",
+      "latestDate": "2026-08-19",
+      "currentPrice": 46.13,
+      "predictedPrice": 51.71,
+      "retPct": 12.09,
+      "status": "success"
+    },
+    {
+      "code": "000800",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.11,
+      "predictedPrice": 6.85,
+      "retPct": 12.06,
+      "status": "success"
+    },
+    {
+      "code": "600958",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.88,
+      "predictedPrice": 9.93,
+      "retPct": 11.87,
       "status": "success"
     },
     {
       "code": "601138",
-      "latestDate": "2026-08-18",
-      "currentPrice": 66.2,
-      "predictedPrice": 51.99,
-      "retPct": -21.46,
+      "latestDate": "2026-08-19",
+      "currentPrice": 61.83,
+      "predictedPrice": 69.16,
+      "retPct": 11.85,
       "status": "success"
     },
     {
-      "code": "002841",
-      "latestDate": "2026-08-18",
-      "currentPrice": 51.3,
-      "predictedPrice": 39.92,
-      "retPct": -22.18,
+      "code": "601877",
+      "latestDate": "2026-08-19",
+      "currentPrice": 23.89,
+      "predictedPrice": 26.68,
+      "retPct": 11.67,
+      "status": "success"
+    },
+    {
+      "code": "600875",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.91,
+      "predictedPrice": 28.91,
+      "retPct": 11.57,
+      "status": "success"
+    },
+    {
+      "code": "000425",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.06,
+      "predictedPrice": 8.98,
+      "retPct": 11.47,
+      "status": "success"
+    },
+    {
+      "code": "600050",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.17,
+      "predictedPrice": 4.64,
+      "retPct": 11.37,
+      "status": "success"
+    },
+    {
+      "code": "600115",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.45,
+      "predictedPrice": 3.83,
+      "retPct": 11.09,
+      "status": "success"
+    },
+    {
+      "code": "601216",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.37,
+      "predictedPrice": 4.85,
+      "retPct": 11.0,
+      "status": "success"
+    },
+    {
+      "code": "600893",
+      "latestDate": "2026-08-19",
+      "currentPrice": 35.57,
+      "predictedPrice": 39.48,
+      "retPct": 10.99,
+      "status": "success"
+    },
+    {
+      "code": "300124",
+      "latestDate": "2026-08-19",
+      "currentPrice": 59.75,
+      "predictedPrice": 66.14,
+      "retPct": 10.69,
+      "status": "success"
+    },
+    {
+      "code": "600372",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.87,
+      "predictedPrice": 12.03,
+      "retPct": 10.68,
+      "status": "success"
+    },
+    {
+      "code": "601818",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.0,
+      "predictedPrice": 3.32,
+      "retPct": 10.63,
+      "status": "success"
+    },
+    {
+      "code": "601600",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.35,
+      "predictedPrice": 10.33,
+      "retPct": 10.49,
+      "status": "success"
+    },
+    {
+      "code": "600029",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.99,
+      "predictedPrice": 5.51,
+      "retPct": 10.49,
+      "status": "success"
+    },
+    {
+      "code": "600061",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.2,
+      "predictedPrice": 6.83,
+      "retPct": 10.14,
+      "status": "success"
+    },
+    {
+      "code": "002180",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.7,
+      "predictedPrice": 19.5,
+      "retPct": 10.14,
+      "status": "success"
+    },
+    {
+      "code": "601611",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.69,
+      "predictedPrice": 11.74,
+      "retPct": 9.78,
+      "status": "success"
+    },
+    {
+      "code": "601808",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.29,
+      "predictedPrice": 13.45,
+      "retPct": 9.44,
+      "status": "success"
+    },
+    {
+      "code": "300751",
+      "latestDate": "2026-08-19",
+      "currentPrice": 189.5,
+      "predictedPrice": 207.33,
+      "retPct": 9.41,
+      "status": "success"
+    },
+    {
+      "code": "300014",
+      "latestDate": "2026-08-19",
+      "currentPrice": 55.4,
+      "predictedPrice": 60.6,
+      "retPct": 9.39,
+      "status": "success"
+    },
+    {
+      "code": "600019",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.91,
+      "predictedPrice": 6.46,
+      "retPct": 9.38,
+      "status": "success"
+    },
+    {
+      "code": "002241",
+      "latestDate": "2026-08-19",
+      "currentPrice": 21.98,
+      "predictedPrice": 24.03,
+      "retPct": 9.35,
+      "status": "success"
+    },
+    {
+      "code": "002673",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.45,
+      "predictedPrice": 7.05,
+      "retPct": 9.24,
+      "status": "success"
+    },
+    {
+      "code": "000538",
+      "latestDate": "2026-08-19",
+      "currentPrice": 49.75,
+      "predictedPrice": 54.34,
+      "retPct": 9.22,
+      "status": "success"
+    },
+    {
+      "code": "601618",
+      "latestDate": "2026-08-19",
+      "currentPrice": 2.54,
+      "predictedPrice": 2.77,
+      "retPct": 9.2,
+      "status": "success"
+    },
+    {
+      "code": "603198",
+      "latestDate": "2026-08-19",
+      "currentPrice": 39.5,
+      "predictedPrice": 43.08,
+      "retPct": 9.07,
+      "status": "success"
+    },
+    {
+      "code": "600732",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.8,
+      "predictedPrice": 12.86,
+      "retPct": 8.99,
+      "status": "success"
+    },
+    {
+      "code": "601607",
+      "latestDate": "2026-08-19",
+      "currentPrice": 16.37,
+      "predictedPrice": 17.79,
+      "retPct": 8.7,
+      "status": "success"
+    },
+    {
+      "code": "300073",
+      "latestDate": "2026-08-19",
+      "currentPrice": 40.71,
+      "predictedPrice": 44.24,
+      "retPct": 8.68,
+      "status": "success"
+    },
+    {
+      "code": "600008",
+      "latestDate": "2026-08-19",
+      "currentPrice": 2.8,
+      "predictedPrice": 3.04,
+      "retPct": 8.6,
+      "status": "success"
+    },
+    {
+      "code": "601288",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.77,
+      "predictedPrice": 7.35,
+      "retPct": 8.56,
+      "status": "success"
+    },
+    {
+      "code": "600690",
+      "latestDate": "2026-08-19",
+      "currentPrice": 21.97,
+      "predictedPrice": 23.84,
+      "retPct": 8.52,
+      "status": "success"
+    },
+    {
+      "code": "601018",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.39,
+      "predictedPrice": 3.68,
+      "retPct": 8.5,
+      "status": "success"
+    },
+    {
+      "code": "601601",
+      "latestDate": "2026-08-19",
+      "currentPrice": 30.2,
+      "predictedPrice": 32.74,
+      "retPct": 8.41,
+      "status": "success"
+    },
+    {
+      "code": "601162",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.56,
+      "predictedPrice": 3.86,
+      "retPct": 8.37,
+      "status": "success"
+    },
+    {
+      "code": "603993",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.0,
+      "predictedPrice": 19.49,
+      "retPct": 8.27,
+      "status": "success"
+    },
+    {
+      "code": "002028",
+      "latestDate": "2026-08-19",
+      "currentPrice": 171.0,
+      "predictedPrice": 185.15,
+      "retPct": 8.27,
+      "status": "success"
+    },
+    {
+      "code": "000166",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.41,
+      "predictedPrice": 4.77,
+      "retPct": 8.08,
+      "status": "success"
+    },
+    {
+      "code": "600015",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.59,
+      "predictedPrice": 7.12,
+      "retPct": 8.04,
+      "status": "success"
+    },
+    {
+      "code": "600760",
+      "latestDate": "2026-08-19",
+      "currentPrice": 43.53,
+      "predictedPrice": 47.03,
+      "retPct": 8.03,
+      "status": "success"
+    },
+    {
+      "code": "000155",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.72,
+      "predictedPrice": 12.66,
+      "retPct": 8.02,
+      "status": "success"
+    },
+    {
+      "code": "002179",
+      "latestDate": "2026-08-19",
+      "currentPrice": 34.38,
+      "predictedPrice": 37.09,
+      "retPct": 7.88,
+      "status": "success"
+    },
+    {
+      "code": "601860",
+      "latestDate": "2026-08-19",
+      "currentPrice": 2.52,
+      "predictedPrice": 2.72,
+      "retPct": 7.83,
+      "status": "success"
+    },
+    {
+      "code": "000776",
+      "latestDate": "2026-08-19",
+      "currentPrice": 20.39,
+      "predictedPrice": 21.96,
+      "retPct": 7.72,
+      "status": "success"
+    },
+    {
+      "code": "000009",
+      "latestDate": "2026-08-19",
+      "currentPrice": 7.41,
+      "predictedPrice": 7.98,
+      "retPct": 7.72,
+      "status": "success"
+    },
+    {
+      "code": "600109",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.47,
+      "predictedPrice": 9.1,
+      "retPct": 7.49,
+      "status": "success"
+    },
+    {
+      "code": "002601",
+      "latestDate": "2026-08-19",
+      "currentPrice": 15.33,
+      "predictedPrice": 16.47,
+      "retPct": 7.42,
+      "status": "success"
+    },
+    {
+      "code": "600547",
+      "latestDate": "2026-08-19",
+      "currentPrice": 32.6,
+      "predictedPrice": 34.9,
+      "retPct": 7.06,
+      "status": "success"
+    },
+    {
+      "code": "000630",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.37,
+      "predictedPrice": 6.81,
+      "retPct": 6.85,
+      "status": "success"
+    },
+    {
+      "code": "002001",
+      "latestDate": "2026-08-19",
+      "currentPrice": 29.14,
+      "predictedPrice": 31.11,
+      "retPct": 6.77,
+      "status": "success"
+    },
+    {
+      "code": "601169",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.02,
+      "predictedPrice": 5.36,
+      "retPct": 6.74,
+      "status": "success"
+    },
+    {
+      "code": "600905",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.69,
+      "predictedPrice": 3.94,
+      "retPct": 6.68,
+      "status": "success"
+    },
+    {
+      "code": "600872",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.61,
+      "predictedPrice": 19.8,
+      "retPct": 6.39,
+      "status": "success"
+    },
+    {
+      "code": "600516",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.06,
+      "predictedPrice": 5.38,
+      "retPct": 6.37,
+      "status": "success"
+    },
+    {
+      "code": "600918",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.47,
+      "predictedPrice": 5.8,
+      "retPct": 6.12,
+      "status": "success"
+    },
+    {
+      "code": "603019",
+      "latestDate": "2026-08-19",
+      "currentPrice": 85.0,
+      "predictedPrice": 90.12,
+      "retPct": 6.02,
+      "status": "success"
+    },
+    {
+      "code": "601816",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.95,
+      "predictedPrice": 5.24,
+      "retPct": 5.89,
+      "status": "success"
+    },
+    {
+      "code": "601868",
+      "latestDate": "2026-08-19",
+      "currentPrice": 2.5,
+      "predictedPrice": 2.64,
+      "retPct": 5.79,
+      "status": "success"
+    },
+    {
+      "code": "601985",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.76,
+      "predictedPrice": 9.27,
+      "retPct": 5.78,
+      "status": "success"
+    },
+    {
+      "code": "603659",
+      "latestDate": "2026-08-19",
+      "currentPrice": 24.05,
+      "predictedPrice": 25.42,
+      "retPct": 5.71,
+      "status": "success"
+    },
+    {
+      "code": "600196",
+      "latestDate": "2026-08-19",
+      "currentPrice": 23.63,
+      "predictedPrice": 24.94,
+      "retPct": 5.54,
+      "status": "success"
+    },
+    {
+      "code": "601658",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.98,
+      "predictedPrice": 5.24,
+      "retPct": 5.14,
+      "status": "success"
+    },
+    {
+      "code": "600011",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.68,
+      "predictedPrice": 7.01,
+      "retPct": 4.99,
+      "status": "success"
+    },
+    {
+      "code": "000157",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.87,
+      "predictedPrice": 7.21,
+      "retPct": 4.94,
+      "status": "success"
+    },
+    {
+      "code": "600183",
+      "latestDate": "2026-08-19",
+      "currentPrice": 125.47,
+      "predictedPrice": 131.56,
+      "retPct": 4.85,
+      "status": "success"
+    },
+    {
+      "code": "600011",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.68,
+      "predictedPrice": 7.0,
+      "retPct": 4.82,
+      "status": "success"
+    },
+    {
+      "code": "601628",
+      "latestDate": "2026-08-19",
+      "currentPrice": 36.84,
+      "predictedPrice": 38.6,
+      "retPct": 4.78,
+      "status": "success"
+    },
+    {
+      "code": "601727",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.52,
+      "predictedPrice": 6.83,
+      "retPct": 4.75,
+      "status": "success"
+    },
+    {
+      "code": "601669",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.62,
+      "predictedPrice": 4.84,
+      "retPct": 4.75,
+      "status": "success"
+    },
+    {
+      "code": "600690",
+      "latestDate": "2026-08-19",
+      "currentPrice": 21.97,
+      "predictedPrice": 23.01,
+      "retPct": 4.72,
+      "status": "success"
+    },
+    {
+      "code": "601698",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.88,
+      "predictedPrice": 27.1,
+      "retPct": 4.71,
+      "status": "success"
+    },
+    {
+      "code": "002714",
+      "latestDate": "2026-08-19",
+      "currentPrice": 38.84,
+      "predictedPrice": 40.65,
+      "retPct": 4.65,
+      "status": "success"
+    },
+    {
+      "code": "600519",
+      "latestDate": "2026-08-19",
+      "currentPrice": 1307.88,
+      "predictedPrice": 1366.64,
+      "retPct": 4.49,
+      "status": "success"
+    },
+    {
+      "code": "600276",
+      "latestDate": "2026-08-19",
+      "currentPrice": 52.66,
+      "predictedPrice": 55.02,
+      "retPct": 4.48,
+      "status": "success"
+    },
+    {
+      "code": "600016",
+      "latestDate": "2026-08-19",
+      "currentPrice": 3.43,
+      "predictedPrice": 3.58,
+      "retPct": 4.47,
+      "status": "success"
+    },
+    {
+      "code": "601336",
+      "latestDate": "2026-08-19",
+      "currentPrice": 57.66,
+      "predictedPrice": 60.21,
+      "retPct": 4.43,
+      "status": "success"
+    },
+    {
+      "code": "601608",
+      "latestDate": "2026-08-19",
+      "currentPrice": 4.71,
+      "predictedPrice": 4.92,
+      "retPct": 4.43,
+      "status": "success"
+    },
+    {
+      "code": "002120",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.63,
+      "predictedPrice": 6.92,
+      "retPct": 4.41,
+      "status": "success"
+    },
+    {
+      "code": "000063",
+      "latestDate": "2026-08-19",
+      "currentPrice": 33.67,
+      "predictedPrice": 35.01,
+      "retPct": 3.98,
+      "status": "success"
+    },
+    {
+      "code": "601211",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.86,
+      "predictedPrice": 18.55,
+      "retPct": 3.89,
+      "status": "success"
+    },
+    {
+      "code": "600028",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.16,
+      "predictedPrice": 5.36,
+      "retPct": 3.88,
+      "status": "success"
+    },
+    {
+      "code": "603986",
+      "latestDate": "2026-08-19",
+      "currentPrice": 403.71,
+      "predictedPrice": 419.35,
+      "retPct": 3.87,
+      "status": "success"
+    },
+    {
+      "code": "601688",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.9,
+      "predictedPrice": 19.62,
+      "retPct": 3.81,
+      "status": "success"
+    },
+    {
+      "code": "601377",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.77,
+      "predictedPrice": 5.98,
+      "retPct": 3.71,
+      "status": "success"
+    },
+    {
+      "code": "603288",
+      "latestDate": "2026-08-19",
+      "currentPrice": 35.32,
+      "predictedPrice": 36.62,
+      "retPct": 3.68,
+      "status": "success"
+    },
+    {
+      "code": "600406",
+      "latestDate": "2026-08-19",
+      "currentPrice": 23.51,
+      "predictedPrice": 24.35,
+      "retPct": 3.55,
+      "status": "success"
+    },
+    {
+      "code": "603288",
+      "latestDate": "2026-08-19",
+      "currentPrice": 35.32,
+      "predictedPrice": 36.53,
+      "retPct": 3.42,
+      "status": "success"
+    },
+    {
+      "code": "600352",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.8,
+      "predictedPrice": 13.21,
+      "retPct": 3.24,
+      "status": "success"
+    },
+    {
+      "code": "600887",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.23,
+      "predictedPrice": 25.98,
+      "retPct": 2.97,
+      "status": "success"
+    },
+    {
+      "code": "600153",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.84,
+      "predictedPrice": 9.06,
+      "retPct": 2.48,
+      "status": "success"
+    },
+    {
+      "code": "601995",
+      "latestDate": "2026-08-19",
+      "currentPrice": 33.83,
+      "predictedPrice": 34.66,
+      "retPct": 2.44,
+      "status": "success"
+    },
+    {
+      "code": "600803",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.9,
+      "predictedPrice": 18.3,
+      "retPct": 2.26,
+      "status": "success"
+    },
+    {
+      "code": "600999",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.83,
+      "predictedPrice": 18.23,
+      "retPct": 2.25,
+      "status": "success"
+    },
+    {
+      "code": "600362",
+      "latestDate": "2026-08-19",
+      "currentPrice": 44.02,
+      "predictedPrice": 44.98,
+      "retPct": 2.19,
+      "status": "success"
+    },
+    {
+      "code": "600039",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.5,
+      "predictedPrice": 8.68,
+      "retPct": 2.08,
+      "status": "success"
+    },
+    {
+      "code": "002236",
+      "latestDate": "2026-08-19",
+      "currentPrice": 16.14,
+      "predictedPrice": 16.46,
+      "retPct": 2.0,
+      "status": "success"
+    },
+    {
+      "code": "600941",
+      "latestDate": "2026-08-19",
+      "currentPrice": 97.17,
+      "predictedPrice": 99.0,
+      "retPct": 1.88,
+      "status": "success"
+    },
+    {
+      "code": "600176",
+      "latestDate": "2026-08-19",
+      "currentPrice": 40.56,
+      "predictedPrice": 41.28,
+      "retPct": 1.77,
+      "status": "success"
+    },
+    {
+      "code": "601137",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.68,
+      "predictedPrice": 19.0,
+      "retPct": 1.7,
+      "status": "success"
+    },
+    {
+      "code": "000895",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.13,
+      "predictedPrice": 25.43,
+      "retPct": 1.2,
+      "status": "success"
+    },
+    {
+      "code": "600031",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.93,
+      "predictedPrice": 19.15,
+      "retPct": 1.14,
+      "status": "success"
+    },
+    {
+      "code": "600025",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.76,
+      "predictedPrice": 9.87,
+      "retPct": 1.08,
+      "status": "success"
+    },
+    {
+      "code": "600018",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.17,
+      "predictedPrice": 5.21,
+      "retPct": 0.72,
+      "status": "success"
+    },
+    {
+      "code": "600584",
+      "latestDate": "2026-08-19",
+      "currentPrice": 77.74,
+      "predictedPrice": 78.2,
+      "retPct": 0.59,
+      "status": "success"
+    },
+    {
+      "code": "600039",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.5,
+      "predictedPrice": 8.55,
+      "retPct": 0.54,
+      "status": "success"
+    },
+    {
+      "code": "300059",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.73,
+      "predictedPrice": 18.81,
+      "retPct": 0.41,
+      "status": "success"
+    },
+    {
+      "code": "600030",
+      "latestDate": "2026-08-19",
+      "currentPrice": 27.15,
+      "predictedPrice": 27.25,
+      "retPct": 0.35,
+      "status": "success"
+    },
+    {
+      "code": "601899",
+      "latestDate": "2026-08-19",
+      "currentPrice": 32.76,
+      "predictedPrice": 32.85,
+      "retPct": 0.27,
+      "status": "success"
+    },
+    {
+      "code": "000001",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.27,
+      "predictedPrice": 11.27,
+      "retPct": 0.03,
+      "status": "success"
+    },
+    {
+      "code": "000001",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.27,
+      "predictedPrice": 11.26,
+      "retPct": -0.09,
+      "status": "success"
+    },
+    {
+      "code": "600900",
+      "latestDate": "2026-08-19",
+      "currentPrice": 28.42,
+      "predictedPrice": 28.39,
+      "retPct": -0.11,
+      "status": "success"
+    },
+    {
+      "code": "000651",
+      "latestDate": "2026-08-19",
+      "currentPrice": 41.32,
+      "predictedPrice": 41.27,
+      "retPct": -0.11,
+      "status": "success"
+    },
+    {
+      "code": "300750",
+      "latestDate": "2026-08-19",
+      "currentPrice": 389.0,
+      "predictedPrice": 388.44,
+      "retPct": -0.14,
+      "status": "success"
+    },
+    {
+      "code": "600150",
+      "latestDate": "2026-08-19",
+      "currentPrice": 33.14,
+      "predictedPrice": 33.02,
+      "retPct": -0.36,
+      "status": "success"
+    },
+    {
+      "code": "600036",
+      "latestDate": "2026-08-19",
+      "currentPrice": 39.15,
+      "predictedPrice": 38.99,
+      "retPct": -0.4,
+      "status": "success"
+    },
+    {
+      "code": "600066",
+      "latestDate": "2026-08-19",
+      "currentPrice": 29.83,
+      "predictedPrice": 29.71,
+      "retPct": -0.41,
+      "status": "success"
+    },
+    {
+      "code": "600521",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.15,
+      "predictedPrice": 17.06,
+      "retPct": -0.52,
+      "status": "success"
+    },
+    {
+      "code": "000001",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.27,
+      "predictedPrice": 11.21,
+      "retPct": -0.55,
+      "status": "success"
+    },
+    {
+      "code": "600660",
+      "latestDate": "2026-08-19",
+      "currentPrice": 57.9,
+      "predictedPrice": 57.33,
+      "retPct": -0.98,
+      "status": "success"
+    },
+    {
+      "code": "601328",
+      "latestDate": "2026-08-19",
+      "currentPrice": 7.15,
+      "predictedPrice": 7.07,
+      "retPct": -1.12,
+      "status": "success"
+    },
+    {
+      "code": "601577",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.43,
+      "predictedPrice": 9.28,
+      "retPct": -1.6,
+      "status": "success"
+    },
+    {
+      "code": "300347",
+      "latestDate": "2026-08-19",
+      "currentPrice": 51.78,
+      "predictedPrice": 50.83,
+      "retPct": -1.83,
+      "status": "success"
+    },
+    {
+      "code": "300136",
+      "latestDate": "2026-08-19",
+      "currentPrice": 60.33,
+      "predictedPrice": 59.19,
+      "retPct": -1.89,
+      "status": "success"
+    },
+    {
+      "code": "600989",
+      "latestDate": "2026-08-19",
+      "currentPrice": 23.66,
+      "predictedPrice": 23.15,
+      "retPct": -2.17,
+      "status": "success"
+    },
+    {
+      "code": "000039",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.31,
+      "predictedPrice": 9.1,
+      "retPct": -2.3,
+      "status": "success"
+    },
+    {
+      "code": "601857",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.21,
+      "predictedPrice": 10.94,
+      "retPct": -2.38,
+      "status": "success"
+    },
+    {
+      "code": "601066",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.12,
+      "predictedPrice": 24.52,
+      "retPct": -2.38,
+      "status": "success"
+    },
+    {
+      "code": "601318",
+      "latestDate": "2026-08-19",
+      "currentPrice": 52.08,
+      "predictedPrice": 50.81,
+      "retPct": -2.44,
+      "status": "success"
+    },
+    {
+      "code": "601001",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.2,
+      "predictedPrice": 16.78,
+      "retPct": -2.46,
+      "status": "success"
+    },
+    {
+      "code": "600497",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.67,
+      "predictedPrice": 9.38,
+      "retPct": -3.03,
+      "status": "success"
+    },
+    {
+      "code": "601231",
+      "latestDate": "2026-08-19",
+      "currentPrice": 26.87,
+      "predictedPrice": 26.03,
+      "retPct": -3.12,
+      "status": "success"
+    },
+    {
+      "code": "601939",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.55,
+      "predictedPrice": 10.22,
+      "retPct": -3.14,
+      "status": "success"
+    },
+    {
+      "code": "000783",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.53,
+      "predictedPrice": 8.23,
+      "retPct": -3.5,
+      "status": "success"
+    },
+    {
+      "code": "600926",
+      "latestDate": "2026-08-19",
+      "currentPrice": 16.79,
+      "predictedPrice": 16.18,
+      "retPct": -3.62,
+      "status": "success"
+    },
+    {
+      "code": "600867",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.24,
+      "predictedPrice": 7.94,
+      "retPct": -3.63,
+      "status": "success"
+    },
+    {
+      "code": "600012",
+      "latestDate": "2026-08-19",
+      "currentPrice": 15.87,
+      "predictedPrice": 15.29,
+      "retPct": -3.67,
+      "status": "success"
+    },
+    {
+      "code": "600026",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.32,
+      "predictedPrice": 17.63,
+      "retPct": -3.77,
+      "status": "success"
+    },
+    {
+      "code": "600703",
+      "latestDate": "2026-08-19",
+      "currentPrice": 13.51,
+      "predictedPrice": 12.96,
+      "retPct": -4.05,
+      "status": "success"
+    },
+    {
+      "code": "000977",
+      "latestDate": "2026-08-19",
+      "currentPrice": 72.87,
+      "predictedPrice": 69.75,
+      "retPct": -4.28,
+      "status": "success"
+    },
+    {
+      "code": "601108",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.47,
+      "predictedPrice": 8.1,
+      "retPct": -4.32,
+      "status": "success"
+    },
+    {
+      "code": "603233",
+      "latestDate": "2026-08-19",
+      "currentPrice": 17.91,
+      "predictedPrice": 17.13,
+      "retPct": -4.33,
+      "status": "success"
+    },
+    {
+      "code": "601166",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.24,
+      "predictedPrice": 17.32,
+      "retPct": -5.03,
+      "status": "success"
+    },
+    {
+      "code": "600346",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.86,
+      "predictedPrice": 17.9,
+      "retPct": -5.09,
+      "status": "success"
+    },
+    {
+      "code": "600535",
+      "latestDate": "2026-08-19",
+      "currentPrice": 15.24,
+      "predictedPrice": 14.43,
+      "retPct": -5.29,
+      "status": "success"
+    },
+    {
+      "code": "600010",
+      "latestDate": "2026-08-19",
+      "currentPrice": 2.17,
+      "predictedPrice": 2.05,
+      "retPct": -5.45,
+      "status": "success"
+    },
+    {
+      "code": "600919",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.95,
+      "predictedPrice": 11.21,
+      "retPct": -6.22,
+      "status": "success"
+    },
+    {
+      "code": "300012",
+      "latestDate": "2026-08-19",
+      "currentPrice": 15.04,
+      "predictedPrice": 14.1,
+      "retPct": -6.23,
+      "status": "success"
+    },
+    {
+      "code": "600309",
+      "latestDate": "2026-08-19",
+      "currentPrice": 73.89,
+      "predictedPrice": 69.13,
+      "retPct": -6.44,
+      "status": "success"
+    },
+    {
+      "code": "601838",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.41,
+      "predictedPrice": 17.19,
+      "retPct": -6.64,
+      "status": "success"
+    },
+    {
+      "code": "600795",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.13,
+      "predictedPrice": 4.78,
+      "retPct": -6.78,
+      "status": "success"
+    },
+    {
+      "code": "002129",
+      "latestDate": "2026-08-19",
+      "currentPrice": 9.85,
+      "predictedPrice": 9.17,
+      "retPct": -6.88,
+      "status": "success"
+    },
+    {
+      "code": "300142",
+      "latestDate": "2026-08-19",
+      "currentPrice": 12.6,
+      "predictedPrice": 11.68,
+      "retPct": -7.29,
+      "status": "success"
+    },
+    {
+      "code": "601606",
+      "latestDate": "2026-08-19",
+      "currentPrice": 30.85,
+      "predictedPrice": 28.53,
+      "retPct": -7.52,
       "status": "success"
     },
     {
       "code": "002371",
-      "latestDate": "2026-08-18",
-      "currentPrice": 777.0,
-      "predictedPrice": 602.52,
-      "retPct": -22.46,
+      "latestDate": "2026-08-19",
+      "currentPrice": 712.95,
+      "predictedPrice": 658.76,
+      "retPct": -7.6,
+      "status": "success"
+    },
+    {
+      "code": "600309",
+      "latestDate": "2026-08-19",
+      "currentPrice": 73.89,
+      "predictedPrice": 67.97,
+      "retPct": -8.02,
+      "status": "success"
+    },
+    {
+      "code": "601009",
+      "latestDate": "2026-08-19",
+      "currentPrice": 11.76,
+      "predictedPrice": 10.81,
+      "retPct": -8.11,
+      "status": "success"
+    },
+    {
+      "code": "000333",
+      "latestDate": "2026-08-19",
+      "currentPrice": 84.72,
+      "predictedPrice": 77.69,
+      "retPct": -8.3,
+      "status": "success"
+    },
+    {
+      "code": "601225",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.59,
+      "predictedPrice": 23.36,
+      "retPct": -8.7,
+      "status": "success"
+    },
+    {
+      "code": "000725",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.01,
+      "predictedPrice": 5.48,
+      "retPct": -8.77,
+      "status": "success"
+    },
+    {
+      "code": "601088",
+      "latestDate": "2026-08-19",
+      "currentPrice": 46.52,
+      "predictedPrice": 42.3,
+      "retPct": -9.06,
+      "status": "success"
+    },
+    {
+      "code": "601988",
+      "latestDate": "2026-08-19",
+      "currentPrice": 6.08,
+      "predictedPrice": 5.51,
+      "retPct": -9.29,
+      "status": "success"
+    },
+    {
+      "code": "300628",
+      "latestDate": "2026-08-19",
+      "currentPrice": 39.82,
+      "predictedPrice": 36.09,
+      "retPct": -9.36,
+      "status": "success"
+    },
+    {
+      "code": "601398",
+      "latestDate": "2026-08-19",
+      "currentPrice": 7.8,
+      "predictedPrice": 7.07,
+      "retPct": -9.42,
+      "status": "success"
+    },
+    {
+      "code": "002415",
+      "latestDate": "2026-08-19",
+      "currentPrice": 33.89,
+      "predictedPrice": 30.53,
+      "retPct": -9.93,
+      "status": "success"
+    },
+    {
+      "code": "601919",
+      "latestDate": "2026-08-19",
+      "currentPrice": 16.55,
+      "predictedPrice": 14.89,
+      "retPct": -10.0,
+      "status": "success"
+    },
+    {
+      "code": "600801",
+      "latestDate": "2026-08-19",
+      "currentPrice": 22.98,
+      "predictedPrice": 20.63,
+      "retPct": -10.24,
+      "status": "success"
+    },
+    {
+      "code": "002142",
+      "latestDate": "2026-08-19",
+      "currentPrice": 32.98,
+      "predictedPrice": 29.5,
+      "retPct": -10.56,
+      "status": "success"
+    },
+    {
+      "code": "601998",
+      "latestDate": "2026-08-19",
+      "currentPrice": 8.16,
+      "predictedPrice": 7.29,
+      "retPct": -10.63,
+      "status": "success"
+    },
+    {
+      "code": "601233",
+      "latestDate": "2026-08-19",
+      "currentPrice": 23.71,
+      "predictedPrice": 21.11,
+      "retPct": -10.98,
+      "status": "success"
+    },
+    {
+      "code": "601088",
+      "latestDate": "2026-08-19",
+      "currentPrice": 46.52,
+      "predictedPrice": 40.44,
+      "retPct": -13.08,
+      "status": "success"
+    },
+    {
+      "code": "002202",
+      "latestDate": "2026-08-19",
+      "currentPrice": 22.03,
+      "predictedPrice": 19.15,
+      "retPct": -13.08,
+      "status": "success"
+    },
+    {
+      "code": "000100",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.05,
+      "predictedPrice": 4.38,
+      "retPct": -13.3,
+      "status": "success"
+    },
+    {
+      "code": "601918",
+      "latestDate": "2026-08-19",
+      "currentPrice": 10.04,
+      "predictedPrice": 8.67,
+      "retPct": -13.66,
+      "status": "success"
+    },
+    {
+      "code": "601699",
+      "latestDate": "2026-08-19",
+      "currentPrice": 16.37,
+      "predictedPrice": 14.07,
+      "retPct": -14.06,
+      "status": "success"
+    },
+    {
+      "code": "600219",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.1,
+      "predictedPrice": 4.35,
+      "retPct": -14.66,
+      "status": "success"
+    },
+    {
+      "code": "600233",
+      "latestDate": "2026-08-19",
+      "currentPrice": 18.68,
+      "predictedPrice": 15.84,
+      "retPct": -15.21,
+      "status": "success"
+    },
+    {
+      "code": "002841",
+      "latestDate": "2026-08-19",
+      "currentPrice": 49.36,
+      "predictedPrice": 41.69,
+      "retPct": -15.55,
+      "status": "success"
+    },
+    {
+      "code": "300866",
+      "latestDate": "2026-08-19",
+      "currentPrice": 114.91,
+      "predictedPrice": 95.39,
+      "retPct": -16.99,
+      "status": "success"
+    },
+    {
+      "code": "600489",
+      "latestDate": "2026-08-19",
+      "currentPrice": 25.19,
+      "predictedPrice": 20.68,
+      "retPct": -17.89,
+      "status": "success"
+    },
+    {
+      "code": "300408",
+      "latestDate": "2026-08-19",
+      "currentPrice": 109.6,
+      "predictedPrice": 89.94,
+      "retPct": -17.94,
+      "status": "success"
+    },
+    {
+      "code": "002475",
+      "latestDate": "2026-08-19",
+      "currentPrice": 53.5,
+      "predictedPrice": 42.6,
+      "retPct": -20.37,
+      "status": "success"
+    },
+    {
+      "code": "002493",
+      "latestDate": "2026-08-19",
+      "currentPrice": 13.41,
+      "predictedPrice": 10.48,
+      "retPct": -21.86,
+      "status": "success"
+    },
+    {
+      "code": "002916",
+      "latestDate": "2026-08-19",
+      "currentPrice": 343.93,
+      "predictedPrice": 267.32,
+      "retPct": -22.28,
+      "status": "success"
+    },
+    {
+      "code": "000938",
+      "latestDate": "2026-08-19",
+      "currentPrice": 35.33,
+      "predictedPrice": 27.29,
+      "retPct": -22.76,
+      "status": "success"
+    },
+    {
+      "code": "600188",
+      "latestDate": "2026-08-19",
+      "currentPrice": 21.8,
+      "predictedPrice": 16.81,
+      "retPct": -22.88,
       "status": "success"
     },
     {
       "code": "603259",
-      "latestDate": "2026-08-18",
-      "currentPrice": 167.18,
-      "predictedPrice": 115.7,
-      "retPct": -30.79,
+      "latestDate": "2026-08-19",
+      "currentPrice": 164.0,
+      "predictedPrice": 112.5,
+      "retPct": -31.4,
+      "status": "success"
+    },
+    {
+      "code": "601212",
+      "latestDate": "2026-08-19",
+      "currentPrice": 5.4,
+      "predictedPrice": 3.65,
+      "retPct": -32.37,
       "status": "success"
     }
   ]
